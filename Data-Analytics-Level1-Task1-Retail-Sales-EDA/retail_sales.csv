@@ -1,0 +1,201 @@
+Product Category,Product Name,REGION,Sales Amount,Quantity,Order Date,Customer ID,Customer Age,Customer Gender,Sales,Discount,Profit
+Electronics,Smartphone,AMERICAS,500,1,2024-01-10,C001,25,Male,500,0.19,405.0
+Apparel,T-Shirt,EUROPE,20,2,2024-01-11,C002,30,Female,20,0.23,15.4
+Electronics,Laptop,ASIA,800,1,2024-01-12,C003,22,Female,800,0.2,640.0
+Home Appliances,Microwave Oven,EUROPE,150,1,2024-01-13,C004,45,Male,150,0.19,121.5
+Electronics,Headphones,AMERICAS,100,3,2024-01-14,C005,34,Male,100,0.16,84.0
+Apparel,Jeans,AMERICAS,40,1,2024-01-15,C006,28,Female,40,0.21,31.6
+Home Appliances,Refrigerator,AMERICAS,600,1,2024-01-16,C007,39,Male,600,0.16,504.0
+Electronics,Tablet,EUROPE,300,2,2024-01-17,C008,31,Female,300,0.27,219.0
+Apparel,Jacket,ASIA,70,1,2024-01-18,C009,27,Male,70,0.29,49.7
+Home Appliances,Washing Machine,AMERICAS,400,1,2024-01-19,C010,50,Female,400,0.15,340.0
+Electronics,Smartwatch,EUROPE,200,1,2024-01-20,C011,23,Male,200,0.25,150.0
+Apparel,Sneakers,ASIA,60,2,2024-01-21,C012,36,Female,60,0.18,49.2
+Home Appliances,Blender,ASIA,50,1,2024-01-22,C013,42,Female,50,0.19,40.5
+Electronics,Camera,AMERICAS,350,1,2024-01-23,C014,29,Male,350,0.28,252.0
+Apparel,Dress,ASIA,80,1,2024-01-24,C015,33,Female,80,0.07,74.4
+Home Appliances,Air Conditioner,AMERICAS,700,1,2024-01-25,C016,41,Male,700,0.07,651.0
+Electronics,Desktop Computer,AMERICAS,1200,1,2024-01-26,C017,38,Male,1200,0.06,1128.0
+Apparel,Hat,AMERICAS,25,3,2024-01-27,C018,24,Female,25,0.26,18.5
+Home Appliances,Toaster,ASIA,30,2,2024-01-28,C019,48,Male,30,0.24,22.8
+Electronics,Gaming Console,AFRICA,400,1,2024-01-29,C020,26,Female,400,0.27,292.0
+Home Appliances,Smartphone,AMERICAS,519,4,2024-03-30,C081,32,Male,519,0.13,451.53
+Apparel,Refrigerator,AMERICAS,702,3,2024-03-31,C082,42,Male,702,0.15,596.7
+Electronics,Blender,AMERICAS,1308,1,2024-04-01,C083,35,Female,1308,0.07,1216.44
+Apparel,Hat,ASIA,702,2,2024-04-02,C084,49,Male,702,0.22,547.56
+Home Appliances,Dress,ASIA,577,1,2024-04-03,C085,48,Female,577,0.19,467.37
+Apparel,Jeans,ASIA,301,1,2024-04-04,C086,18,Male,301,0.12,264.88
+Electronics,Gaming Console,AMERICAS,760,3,2024-04-05,C087,42,Male,760,0.18,623.2
+Home Appliances,Hat,AFRICA,1019,4,2024-04-06,C088,51,Female,1019,0.07,947.67
+Apparel,Tablet,ASIA,485,2,2024-04-07,C089,43,Male,485,0.19,392.85
+Home Appliances,Jeans,ASIA,1106,1,2024-04-08,C090,49,Female,1106,0.28,796.32
+Apparel,Smartphone,AFRICA,1188,4,2024-04-09,C091,33,Female,1188,0.13,1033.56
+Apparel,T-Shirt,AFRICA,592,2,2024-04-10,C092,44,Female,592,0.22,461.76
+Home Appliances,Blender,EUROPE,188,3,2024-04-11,C093,46,Female,188,0.08,172.96
+Apparel,Tablet,AFRICA,187,2,2024-04-12,C094,44,Male,187,0.23,143.99
+Home Appliances,Gaming Console,AMERICAS,379,4,2024-04-13,C095,56,Female,379,0.12,333.52
+Electronics,Refrigerator,EUROPE,1472,4,2024-04-14,C096,34,Female,1472,0.1,1324.8
+Electronics,Dress,EUROPE,84,3,2024-04-15,C097,31,Male,84,0.2,67.2
+Apparel,Blender,EUROPE,590,1,2024-04-16,C098,28,Male,590,0.06,554.6
+Electronics,Desktop Computer,AMERICAS,885,3,2024-04-17,C099,21,Male,885,0.26,654.9
+Electronics,Desktop Computer,AFRICA,851,1,2024-04-18,C100,28,Female,851,0.05,808.45
+Electronics,Microwave Oven,AFRICA,781,3,2024-04-19,C101,55,Male,781,0.22,609.18
+Electronics,Microwave Oven,EUROPE,407,2,2024-04-20,C102,31,Female,407,0.12,358.16
+Electronics,Toaster,ASIA,1167,2,2024-04-21,C103,55,Female,1167,0.23,898.59
+Home Appliances,Smartphone,AMERICAS,963,2,2024-05-02,C114,25,Male,963,0.12,847.44
+Electronics,Camera,AMERICAS,165,1,2024-05-03,C115,42,Male,165,0.25,123.75
+Home Appliances,Headphones,ASIA,781,1,2024-05-04,C116,38,Male,781,0.15,663.85
+Home Appliances,Refrigerator,AFRICA,961,1,2024-05-05,C117,37,Male,961,0.27,701.53
+Apparel,Smartwatch,AMERICAS,1344,2,2024-05-06,C118,36,Female,1344,0.2,1075.2
+Home Appliances,Jacket,ASIA,297,3,2024-05-07,C119,18,Female,297,0.27,216.81
+Home Appliances,Desktop Computer,AFRICA,1405,3,2024-05-08,C120,39,Male,1405,0.22,1095.9
+Electronics,Blender,AMERICAS,902,1,2024-05-09,C121,36,Female,902,0.23,694.54
+Home Appliances,Gaming Console,EUROPE,1176,2,2024-05-10,C122,38,Male,1176,0.18,964.32
+Apparel,Toaster,AMERICAS,1236,1,2024-05-11,C123,43,Male,1236,0.29,877.56
+Home Appliances,Desktop Computer,AMERICAS,482,1,2024-05-12,C124,19,Male,482,0.21,380.78
+Home Appliances,Dress,ASIA,621,3,2024-05-13,C125,57,Female,621,0.16,521.64
+Electronics,Washing Machine,ASIA,266,3,2024-05-14,C126,20,Female,266,0.2,212.8
+Home Appliances,Jeans,EUROPE,1292,3,2024-05-15,C127,54,Female,1292,0.05,1227.4
+Electronics,Jeans,ASIA,686,4,2024-05-16,C128,41,Male,686,0.13,596.82
+Home Appliances,Refrigerator,EUROPE,1318,1,2024-05-17,C129,41,Female,1318,0.22,1028.04
+Home Appliances,Air Conditioner,AMERICAS,451,3,2024-05-18,C130,19,Male,451,0.12,396.88
+Apparel,Headphones,AFRICA,705,4,2024-05-19,C131,56,Female,705,0.2,564.0
+Electronics,Toaster,AMERICAS,59,3,2024-05-20,C132,48,Female,59,0.16,49.56
+Electronics,Microwave Oven,AMERICAS,178,1,2024-05-21,C133,36,Female,178,0.08,163.76
+Electronics,Hat,AMERICAS,1254,3,2024-05-22,C134,48,Male,1254,0.12,1103.52
+Apparel,Camera,AMERICAS,1111,3,2024-05-23,C135,35,Female,1111,0.19,899.91
+Electronics,Headphones,AMERICAS,1109,1,2024-05-24,C136,24,Male,1109,0.2,887.2
+Home Appliances,Jacket,EUROPE,1443,2,2024-05-25,C137,52,Female,1443,0.19,1168.83
+Home Appliances,Laptop,ASIA,756,1,2024-05-26,C138,41,Female,756,0.21,597.24
+Home Appliances,Jacket,AMERICAS,346,1,2024-05-27,C139,20,Female,346,0.21,273.34
+Home Appliances,Hat,AMERICAS,1044,1,2024-05-28,C140,25,Male,1044,0.16,876.96
+Electronics,Headphones,EUROPE,37,1,2024-05-29,C141,20,Male,37,0.27,27.01
+Electronics,Camera,AFRICA,779,3,2024-05-30,C142,40,Male,779,0.14,669.94
+Home Appliances,Gaming Console,EUROPE,797,3,2024-05-31,C143,41,Female,797,0.16,669.48
+Apparel,Refrigerator,AFRICA,1166,2,2024-06-01,C144,57,Male,1166,0.27,851.18
+Apparel,Smartphone,ASIA,753,3,2024-06-02,C145,57,Female,753,0.25,564.75
+Electronics,Microwave Oven,AFRICA,393,2,2024-06-03,C146,59,Male,393,0.23,302.61
+Home Appliances,T-Shirt,ASIA,86,3,2024-06-04,C147,31,Male,86,0.08,79.12
+Home Appliances,Tablet,ASIA,955,3,2024-06-05,C148,57,Male,955,0.28,687.6
+Apparel,Smartphone,AFRICA,1181,3,2024-06-06,C149,59,Female,1181,0.23,909.37
+Electronics,Headphones,ASIA,461,3,2024-06-07,C150,48,Male,461,0.3,322.7
+Home Appliances,Tablet,AFRICA,734,4,2024-06-08,C151,19,Male,734,0.09,667.94
+Apparel,Toaster,AMERICAS,1262,2,2024-06-09,C152,57,Female,1262,0.27,921.26
+Apparel,Camera,AMERICAS,408,3,2024-06-10,C153,58,Male,408,0.09,371.28
+Electronics,Microwave Oven,AMERICAS,444,3,2024-06-11,C154,35,Male,444,0.2,355.2
+Apparel,Jacket,AFRICA,1027,4,2024-06-12,C155,22,Female,1027,0.08,944.84
+Electronics,Washing Machine,EUROPE,648,2,2024-06-13,C156,28,Male,648,0.26,479.52
+Electronics,Headphones,AFRICA,444,3,2024-06-14,C157,26,Male,444,0.25,333.0
+Home Appliances,Tablet,AMERICAS,1254,2,2024-06-15,C158,44,Female,1254,0.19,1015.74
+Apparel,Camera,ASIA,562,4,2024-06-16,C159,32,Female,562,0.15,477.7
+Home Appliances,Sneakers,AFRICA,207,4,2024-06-17,C160,22,Male,207,0.07,192.51
+Electronics,Refrigerator,AFRICA,245,4,2024-06-18,C161,45,Male,245,0.22,191.1
+Apparel,Laptop,EUROPE,264,4,2024-06-19,C162,56,Male,264,0.16,221.76
+Apparel,Tablet,AMERICAS,1400,1,2024-06-20,C163,52,Female,1400,0.23,1078.0
+Electronics,Hat,AMERICAS,252,4,2024-06-21,C164,56,Male,252,0.27,183.96
+Electronics,Jeans,AFRICA,352,4,2024-06-22,C165,37,Male,352,0.29,249.92
+Electronics,Microwave Oven,AMERICAS,725,4,2024-06-23,C166,59,Female,725,0.26,536.5
+Apparel,Blender,EUROPE,1410,2,2024-06-24,C167,21,Male,1410,0.05,1339.5
+Home Appliances,Blender,AFRICA,1280,4,2024-06-25,C168,20,Female,1280,0.14,1100.8
+Home Appliances,Desktop Computer,AMERICAS,496,1,2024-06-26,C169,20,Female,496,0.23,381.92
+Home Appliances,Camera,EUROPE,520,4,2024-06-27,C170,37,Female,520,0.09,473.2
+Home Appliances,Headphones,ASIA,1431,3,2024-06-28,C171,30,Male,1431,0.18,1173.42
+Apparel,Microwave Oven,AFRICA,694,4,2024-06-29,C172,31,Female,694,0.06,652.36
+Electronics,Air Conditioner,EUROPE,1216,3,2024-06-30,C173,48,Female,1216,0.1,1094.4
+Electronics,Camera,EUROPE,912,2,2024-07-01,C174,54,Male,912,0.05,866.4
+Apparel,Microwave Oven,ASIA,1168,2,2024-07-02,C175,38,Male,1168,0.25,876.0
+Electronics,Jacket,AFRICA,435,3,2024-07-03,C176,26,Male,435,0.11,387.15
+Electronics,Smartphone,AFRICA,703,1,2024-07-04,C177,37,Male,703,0.14,604.58
+Electronics,Jacket,ASIA,810,2,2024-07-05,C178,49,Male,810,0.28,583.2
+Apparel,Hat,AFRICA,1425,1,2024-07-06,C179,49,Female,1425,0.23,1097.25
+Apparel,T-Shirt,EUROPE,1002,4,2024-07-07,C180,24,Female,1002,0.06,941.88
+Apparel,Washing Machine,AFRICA,438,4,2024-07-08,C181,46,Male,438,0.09,398.58
+Home Appliances,Air Conditioner,AMERICAS,1315,3,2024-07-09,C182,40,Male,1315,0.21,1038.85
+Electronics,Microwave Oven,ASIA,373,4,2024-07-10,C183,34,Male,373,0.19,302.13
+Apparel,Smartwatch,EUROPE,573,3,2024-07-11,C184,28,Female,573,0.11,509.97
+Apparel,Air Conditioner,AFRICA,1432,1,2024-07-12,C185,34,Female,1432,0.28,1031.04
+Electronics,Desktop Computer,AFRICA,38,3,2024-07-13,C186,45,Female,38,0.2,30.4
+Home Appliances,Smartphone,EUROPE,1228,2,2024-07-14,C187,31,Male,1228,0.18,1006.96
+Apparel,Tablet,ASIA,857,3,2024-07-15,C188,34,Female,857,0.2,685.6
+Apparel,Smartwatch,AMERICAS,240,4,2024-07-16,C189,58,Male,240,0.23,184.8
+Apparel,Hat,AFRICA,602,1,2024-07-17,C190,40,Male,602,0.13,523.74
+Electronics,Jacket,AFRICA,1452,1,2024-07-18,C191,54,Female,1452,0.15,1234.2
+Apparel,Toaster,AFRICA,1290,4,2024-07-19,C192,54,Female,1290,0.1,1161.0
+Apparel,Laptop,AFRICA,1417,1,2024-07-20,C193,48,Male,1417,0.1,1275.3
+Apparel,Dress,EUROPE,638,2,2024-07-21,C194,45,Male,638,0.29,452.98
+Home Appliances,Jeans,AFRICA,706,4,2024-07-22,C195,26,Male,706,0.23,543.62
+Apparel,Laptop,AFRICA,110,4,2024-07-23,C196,25,Female,110,0.17,91.3
+Home Appliances,Gaming Console,EUROPE,224,4,2024-07-24,C197,22,Male,224,0.11,199.36
+Electronics,Microwave Oven,EUROPE,576,3,2024-07-25,C198,18,Female,576,0.11,512.64
+Home Appliances,Washing Machine,EUROPE,1440,3,2024-07-26,C199,23,Male,1440,0.06,1353.6
+Electronics,Dress,ASIA,1004,1,2024-07-27,C200,47,Female,1004,0.16,843.36
+Apparel,Gaming Console,AFRICA,587,2,2024-01-30,C021,51,Female,587,0.29,416.77
+Apparel,Gaming Console,AMERICAS,871,4,2024-01-31,C022,34,Male,871,0.25,653.25
+Home Appliances,Hat,AFRICA,381,3,2024-02-01,C023,41,Male,381,0.17,316.23
+Home Appliances,Desktop Computer,AMERICAS,768,1,2024-02-02,C024,42,Male,768,0.25,576.0
+Home Appliances,Air Conditioner,ASIA,818,1,2024-02-03,C025,45,Female,818,0.08,752.56
+Electronics,Desktop Computer,ASIA,931,3,2024-02-04,C026,52,Male,931,0.21,735.49
+Apparel,Hat,ASIA,1478,4,2024-02-05,C027,52,Female,1478,0.09,1344.98
+Home Appliances,Tablet,EUROPE,1032,4,2024-02-06,C028,18,Male,1032,0.29,732.72
+Home Appliances,Laptop,AMERICAS,907,4,2024-02-07,C029,28,Female,907,0.18,743.74
+Home Appliances,Toaster,AMERICAS,1496,3,2024-02-08,C030,35,Female,1496,0.15,1271.6
+Apparel,Tablet,AMERICAS,54,4,2024-02-09,C031,43,Male,54,0.12,47.52
+Electronics,Gaming Console,EUROPE,55,1,2024-02-10,C032,53,Male,55,0.24,41.8
+Apparel,Camera,AFRICA,1344,2,2024-02-11,C033,40,Male,1344,0.16,1128.96
+Apparel,Dress,AMERICAS,1402,1,2024-02-12,C034,26,Male,1402,0.19,1135.62
+Apparel,Smartphone,EUROPE,1120,4,2024-02-13,C035,58,Female,1120,0.05,1064.0
+Home Appliances,Smartwatch,AFRICA,1376,3,2024-02-14,C036,33,Male,1376,0.2,1100.8
+Electronics,Air Conditioner,AMERICAS,1366,3,2024-02-15,C037,45,Female,1366,0.2,1092.8
+Home Appliances,Gaming Console,AFRICA,741,1,2024-02-16,C038,32,Male,741,0.2,592.8
+Apparel,Jeans,ASIA,1229,3,2024-02-17,C039,54,Male,1229,0.29,872.59
+Apparel,Smartphone,ASIA,520,2,2024-02-18,C040,43,Female,520,0.22,405.6
+Electronics,Blender,AMERICAS,605,1,2024-02-19,C041,30,Female,605,0.14,520.3
+Home Appliances,Camera,AFRICA,1035,1,2024-02-20,C042,43,Male,1035,0.16,869.4
+Electronics,Smartphone,AMERICAS,302,3,2024-02-21,C043,31,Female,302,0.22,235.56
+Electronics,Air Conditioner,EUROPE,1099,4,2024-02-22,C044,41,Female,1099,0.07,1022.07
+Electronics,Smartwatch,ASIA,1291,4,2024-02-23,C045,26,Female,1291,0.22,1006.98
+Apparel,Laptop,AMERICAS,1022,4,2024-02-24,C046,27,Male,1022,0.22,797.16
+Electronics,Smartphone,AFRICA,342,1,2024-02-25,C047,34,Female,342,0.1,307.8
+Home Appliances,Refrigerator,EUROPE,285,2,2024-02-26,C048,36,Male,285,0.08,262.2
+Home Appliances,Gaming Console,ASIA,521,1,2024-02-27,C049,40,Male,521,0.13,453.27
+Apparel,T-Shirt,AMERICAS,306,3,2024-02-28,C050,35,Male,306,0.14,263.16
+Electronics,Gaming Console,EUROPE,559,4,2024-02-29,C051,56,Female,559,0.19,452.79
+Apparel,Dress,ASIA,711,2,2024-03-01,C052,35,Male,711,0.16,597.24
+Apparel,Hat,EUROPE,1292,2,2024-03-02,C053,25,Female,1292,0.3,904.4
+Home Appliances,Jacket,ASIA,673,4,2024-03-03,C054,32,Female,673,0.08,619.16
+Home Appliances,Sneakers,EUROPE,119,1,2024-03-04,C055,28,Female,119,0.1,107.1
+Home Appliances,Air Conditioner,AMERICAS,612,1,2024-03-05,C056,47,Female,612,0.09,556.92
+Apparel,Laptop,EUROPE,729,3,2024-03-06,C057,43,Female,729,0.21,575.91
+Electronics,Smartwatch,EUROPE,1478,2,2024-03-07,C058,19,Female,1478,0.11,1315.42
+Home Appliances,Dress,ASIA,474,1,2024-03-08,C059,46,Female,474,0.17,393.42
+Home Appliances,Dress,EUROPE,1417,3,2024-03-09,C060,52,Male,1417,0.11,1261.13
+Home Appliances,Jacket,AMERICAS,765,3,2024-03-10,C061,54,Female,765,0.09,696.15
+Apparel,Tablet,AMERICAS,114,1,2024-03-11,C062,35,Female,114,0.08,104.88
+Electronics,Refrigerator,AFRICA,843,4,2024-03-12,C063,26,Male,843,0.21,665.97
+Electronics,Hat,EUROPE,1499,2,2024-03-13,C064,56,Male,1499,0.08,1379.08
+Electronics,Headphones,EUROPE,1018,3,2024-03-14,C065,49,Male,1018,0.1,916.2
+Electronics,Jeans,AFRICA,995,2,2024-03-15,C066,56,Female,995,0.14,855.7
+Electronics,Desktop Computer,EUROPE,1422,2,2024-03-16,C067,58,Female,1422,0.26,1052.28
+Home Appliances,Smartphone,ASIA,1242,2,2024-03-17,C068,19,Female,1242,0.07,1155.06
+Apparel,Headphones,EUROPE,429,4,2024-03-18,C069,44,Male,429,0.26,317.46
+Apparel,Smartphone,AFRICA,1394,1,2024-03-19,C070,42,Female,1394,0.07,1296.42
+Electronics,Dress,EUROPE,727,1,2024-03-20,C071,49,Male,727,0.29,516.17
+Home Appliances,Dress,ASIA,455,1,2024-03-21,C072,58,Male,455,0.17,377.65
+Apparel,Jacket,AMERICAS,455,4,2024-03-22,C073,37,Female,455,0.29,323.05
+Apparel,Sneakers,AFRICA,1385,3,2024-03-23,C074,23,Male,1385,0.2,1108.0
+Apparel,Sneakers,EUROPE,1304,4,2024-03-24,C075,32,Female,1304,0.23,1004.08
+Apparel,Hat,ASIA,684,1,2024-03-25,C076,57,Female,684,0.06,642.96
+Electronics,Refrigerator,EUROPE,1349,4,2024-03-26,C077,21,Male,1349,0.12,1187.12
+Electronics,Refrigerator,EUROPE,367,4,2024-03-27,C078,57,Male,367,0.08,337.64
+Electronics,Air Conditioner,EUROPE,511,4,2024-03-28,C079,36,Female,511,0.12,449.68
+Electronics,Microwave Oven,ASIA,1398,2,2024-03-29,C080,32,Female,1398,0.08,1286.16
+Electronics,Jacket,AMERICAS,882,1,2024-04-22,C104,24,Female,882,0.29,626.22
+Home Appliances,Laptop,AFRICA,96,1,2024-04-23,C105,54,Female,96,0.11,85.44
+Electronics,Sneakers,AMERICAS,82,4,2024-04-24,C106,30,Female,82,0.19,66.42
+Electronics,Air Conditioner,AFRICA,129,3,2024-04-25,C107,37,Male,129,0.2,103.2
+Home Appliances,Sneakers,AFRICA,509,2,2024-04-26,C108,35,Female,509,0.19,412.29
+Electronics,Jeans,EUROPE,713,4,2024-04-27,C109,29,Female,713,0.11,634.57
+Apparel,Blender,EUROPE,227,1,2024-04-28,C110,30,Male,227,0.29,161.17
+Apparel,Jacket,ASIA,53,3,2024-04-29,C111,59,Female,53,0.16,44.52
+Electronics,Hat,ASIA,883,2,2024-04-30,C112,36,Female,883,0.26,653.42
+Home Appliances,Laptop,AMERICAS,1123,4,2024-05-01,C113,55,Male,1123,0.22,875.94
