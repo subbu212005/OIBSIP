@@ -1,0 +1,1236 @@
+Transaction_ID,Order_Date,Customer_ID,Customer_Age,Customer_Gender,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Rate,Total_Sales,Region
+TXN-0001,2023-02-27,CUST-1377,52.0,female,, Microwave Oven ,5,180.0,25%,$675.00,east
+TXN-0002,23/05/2023,CUST-1047,40.0,Male,clothing, T-Shirt ,3,25.0,5%,$71.25,South
+TXN-0003,02-21-2023,CUST-1083,35.0,male,home appliances,Vacuum Cleaner,3,160.0,5%,$456.00,South
+TXN-0004,10-18-2023,CUST-1452,34.0,FEMALE,Appliances,Coffee Maker,2,$75.00,,150.00,east
+TXN-0005,"Feb 02, 2023",CUST-1128,18.0,male,clothing,Hat,3,18.0,0.15,$45.90,south
+TXN-0006,2023.11.24,CUST-1082,51.0, Female ,Home Appliances, Vacuum Cleaner ,3,$160.00,5%,456.00,NORTH
+TXN-0007,2023.12.04,CUST-1310,52.0,MALE,Electro,Tablet,5,$350.00,,1750.00,North
+TXN-0008,20/11/2023,1169.0,60.0,FEMALE,  Electronics ,Laptop,4,$950.00,20%,3040.00,north
+TXN-0009,07-26-2023,1098.0,45.0,F,Electronics,Smartphone,1, 550.0 ,,$550.00,West
+txn_0010,25/07/2023,CUST-1135,36.0,FEMALE,Electro, Smartwatch ,5,$200.00,0.05,$950.00,west
+TXN-0011,2023.04.06,CUST-1206,33.0,Male,Electro,Laptop,3, 950.0 ,15%,"$2,422.50",  North 
+TXN-0012,2023.02.21,CUST-1477,33.0,M,clothing,Hat,5,$0.00,0.05,$0.00,west
+TXN-0013,2023.05.20,CUST-1351,49.0,Male,Electro,Tablet,2,$350.00,0.25,525.00,NORTH
+TXN-0014,2023.01.19,CUST-1021,68.0,Male,apparel,Running Shoes,5,85.0,0.1,382.50,North
+15,"Jun 20, 2023",CUST-1415,62.0,Male,electronics, Tablet ,2, 350.0 ,0.05,$665.00,west
+TXN-0016,01-15-2023,CUST-1135,,Female,APPAREL,T-Shirt,5,$25.00,0.25,93.75,South
+TXN-0017,2023-08-09,CUST-1339,37.0,female,APPAREL,T-Shirt,4,25.0,0.25,75.00,  North 
+TXN-0018,"Jun 14, 2023",CUST-1242,65.0,male,Appliances,Microwave Oven,3,$180.00,,540.00,north
+TXN-0019,2023.08.01,CUST-1253,62.0,,Apparel,Jacket,5,110.0,0.1,495.00,West
+txn_0020,2023.09.16,CUST-1441,33.0,  Male  ,clothing,Hat,3,$18.00,5%,51.30,north
+TXN-0021,2023.07.28,1426.0,55.0,Male,clothing,Jeans,-1,$60.00,0.2,0.00,West
+TXN-0022,"May 20, 2023",,43.0,F,  Electronics ,Smartwatch,1,200.0,15%,170.00,east
+TXN-0023,2023-08-04,CUST-1026,59.0,Male,electronics, Wireless Headphones ,2,$120.00,0.2,192.00,north
+TXN-0024,2023-03-25,CUST-1294,43.0,MALE,home appliances, Air Conditioner ,5,650.0,,"$3,250.00",East
+TXN-0025,2023-08-04,CUST-1456,45.0,FEMALE,ELECTRONICS,Smartphone,4, 550.0 ,5%,2090.00,east
+TXN-0026,01-15-2023,CUST-1408,56.0,  Male  ,clothing,T-Shirt,4,$25.00,20%,"$999,999.00",south
+TXN-0027,27/07/2023,CUST-1242,65.0,Female,ELECTRONICS,Smartwatch,3,200.0,0.1,540.00,  North 
+TXN-0028,02-21-2023,CUST-1007,20.0,FEMALE,electronics,Wireless Headphones,1,120.0,5%,$114.00,West
+TXN-0029,2023-10-23,1288.0,33.0,female,  Electronics ,Laptop,4,950.0,0.05,"$3,610.00",South
+txn_0030,05/12/2023,CUST-1080,, Female ,Electronics,Wireless Headphones,4,$120.00,0.25,360.00,NORTH
+TXN-0031,2023-05-17,CUST-1304,36.0,F,Home-Appliances,Coffee Maker,1,75.0,5%,71.25,North
+TXN-0032,2023.12.11,,59.0,  Male  ,Appliances,Air Conditioner,4,$650.00,10%,2340.00,west
+TXN-0033,08-21-2023,1395.0,18.0,FEMALE,Electronics, Smartphone ,4,$550.00,15%,1870.00,  North 
+TXN-0034,03/05/2023,1208.0,25.0,male,home appliances,Air Conditioner,3,650.0,10%,1755.00,north
+TXN-0035,2023.08.01,1371.0,60.0,M,Electro,Wireless Headphones,4,120.0,20%,384.00,east
+TXN-0036,2023-12-06,CUST-1018,39.0,F,Apparel , Jeans ,2, 60.0 ,0.2,96.00,east
+TXN-0037,"Nov 17, 2023",1035.0,36.0,male,Apparel,T-Shirt,2, 25.0 ,15%,$42.50,NORTH
+TXN-0038,2023.03.31,CUST-1123,32.0,  Male  ,Electronics,Tablet,5, 350.0 ,0.2,1400.00,West
+TXN-0039,2023.05.02,CUST-1358,60.0,Male,Electronics,Laptop,3,$950.00,0.1,2565.00,NORTH
+txn_0040,invalid_date,CUST-1296,36.0,female,home appliances,Microwave Oven,5, 180.0 ,0.2,720.00,West
+TXN-0041,14/03/2023,CUST-1203,41.0,female,,Laptop,3,950.0,10%,"$2,565.00",  North 
+TXN-0042,2023-11-28,CUST-1154,20.0,  Male  ,Electronics, Smartwatch ,4,200.0,0.25,$600.00,West
+TXN-0043,2023-07-28,CUST-1227,24.0,Female,APPAREL, Hat ,4,$18.00,5%,68.40,South
+TXN-0044,2023.10.11,CUST-1168,56.0,,electronics,Laptop,1,$950.00,,$950.00,NORTH
+45,2023-01-27,1032.0,50.0,F,  Electronics , Wireless Headphones ,5, 120.0 ,20%,$480.00,north
+TXN-0046,2023-11-08,CUST-1299,56.0,F,Apparel , T-Shirt ,5,$25.00,10%,112.50,East
+TXN-0047,06-10-2023,CUST-1472,23.0,male,APPAREL,Jeans,5,60.0,0.2,240.00,East
+TXN-0048,23/10/2023,CUST-1433,41.0,  Male  ,Electro,Laptop,5,950.0,15%,4037.50,East
+TXN-0049,2023.04.03,1379.0,65.0,female,ELECTRONICS, Smartphone ,5, 550.0 ,0.05,"$2,612.50",West
+,2023.05.20,CUST-1145,51.0,Male,clothing, Jeans ,2,$60.00,0.2,96.00,west
+TXN-0051,12-09-2023,CUST-1021,22.0, Female ,Apparel ,Running Shoes,1,$85.00,0.2,68.00,South
+TXN-0052,2023.10.29,CUST-1381,28.0,male,apparel,Jeans,2,$60.00,25%,90.00,West
+TXN-0053,2023.10.16,CUST-1289,38.0,Female,Apparel,Jacket,5, 110.0 ,5%,522.50,north
+TXN-0054,"Nov 01, 2023",CUST-1405,54.0,Female,clothing, Hat ,3,$18.00,5%,51.30,NORTH
+TXN-0055,"Jul 10, 2023",CUST-1306,,Female,Apparel,T-Shirt,5,$25.00,0.1,112.50,NORTH
+TXN-0056,2023.02.13,CUST-1416,65.0,FEMALE,Apparel ,Hat,-1,$18.00,20%,$0.00,north
+TXN-0057,2023.10.04,,26.0,M,clothing,Running Shoes,4,85.0,20%,272.00,South
+TXN-0058,"Dec 14, 2023",CUST-1195,28.0, Female ,APPAREL, T-Shirt ,1, 25.0 ,,25.00,east
+TXN-0059,04-24-2023,CUST-1202,23.0,Male,Electronics,Laptop,2,950.0,20%,"$999,999.00",north
+txn_0060,12/05/2023,CUST-1270,33.0,Male,  Electronics ,Smartphone,5,550.0,15%,"$2,337.50",north
+TXN-0061,2023.07.04,CUST-1259,48.0,,APPAREL,Running Shoes,-2,85.0,15%,0.00,West
+TXN-0062,03/09/2023,1397.0,30.0,,Home Appliances,Refrigerator,5,$850.00,15%,"$3,612.50",north
+TXN-0063,"Jul 08, 2023",CUST-1197,62.0,FEMALE,Home Appliances,Air Conditioner,2,$650.00,,1300.00,east
+TXN-0064,12-20-2023,CUST-1466,35.0,Male,Electro,Tablet,1,350.0,,$350.00,east
+TXN-0065,17/01/2023,CUST-1190,26.0,female,APPAREL,Hat,4, 18.0 ,20%,57.60,South
+TXN-0066,"Mar 11, 2023",CUST-1044,38.0,male,ELECTRONICS,Laptop,2, 950.0 ,10%,1710.00,West
+TXN-0067,2023.10.10,1203.0,51.0,female,Home Appliances, Air Conditioner ,4,$650.00,0.25,"$1,950.00",North
+TXN-0068,05/03/2023,CUST-1478,51.0,male,Appliances,Vacuum Cleaner,1,$160.00,10%,$144.00,  North 
+TXN-0069,2023-01-15,CUST-1135,44.0,Male,  Electronics ,Smartphone,4,$550.00,,"$2,200.00",  North 
+txn_0070,06-10-2023,CUST-1499,50.0,Female,Electronics,Tablet,3,350.0,0.1,$945.00,NORTH
+TXN-0071,"Sep 21, 2023",CUST-1046,33.0,Female,,Jacket,4,$110.00,0.1,$396.00,east
+TXN-0072,19/10/2023,CUST-1197,35.0, Female ,Electronics, Smartphone ,3,$550.00,0.25,"$1,237.50",East
+TXN-0073,"Aug 31, 2023",CUST-1071,28.0, Female ,HOME APPLIANCES,Air Conditioner,4,$650.00,15%,"$2,210.00",North
+TXN-0074,2023-08-31,CUST-1295,48.0, Female ,Apparel , Hat ,1,18.0,10%,16.20,North
+75,12/03/2023,CUST-1244,29.0,FEMALE,HOME APPLIANCES,Refrigerator,3,$850.00,25%,1912.50,South
+TXN-0076,12-27-2023,CUST-1478,25.0,FEMALE,Home-Appliances,Refrigerator,3, 850.0 ,0.15,"$2,167.50",west
+TXN-0077,2023-05-20,CUST-1124,,MALE,Home Appliances, Refrigerator ,2,$0.00,10%,$0.00,South
+TXN-0078,05-28-2023,CUST-1045,65.0,Male,home appliances,Air Conditioner,1,$650.00,0.15,"$999,999.00",  North 
+TXN-0079,02-24-2023,CUST-1268,50.0,MALE,APPAREL, Hat ,2,$18.00,10%,32.40,west
+txn_0080,invalid_date,1165.0,250.0,  Male  ,APPAREL,T-Shirt,3,$25.00,15%,63.75,south
+TXN-0081,03-02-2023,CUST-1490,65.0,Female,Appliances,Refrigerator,2,850.0,25%,1275.00,North
+TXN-0082,08/10/2023,1167.0,61.0, Female ,Appliances,Vacuum Cleaner,4,$160.00,0.15,544.00,  North 
+TXN-0083,01-24-2023,CUST-1030,48.0,,electronics,Laptop,4,950.0,20%,3040.00,East
+TXN-0084,"Apr 02, 2023",CUST-1114,37.0,FEMALE,Electro,Laptop,3,950.0,,2850.00,North
+TXN-0085,2023-04-16,CUST-1344,65.0,,  Electronics ,Smartwatch,5,$200.00,25%,$750.00,south
+TXN-0086,2023.03.15,CUST-1031,65.0,female,Home Appliances,Coffee Maker,5, 75.0 ,25%,281.25,West
+TXN-0087,"Jan 30, 2023",CUST-1068,39.0,F,Home Appliances,Coffee Maker,4,75.0,0.25,225.00,East
+TXN-0088,08/01/2023,1386.0,56.0,female,  Electronics ,Wireless Headphones,3,$120.00,20%,288.00,South
+TXN-0089,2023-06-10,CUST-1074,, Female ,Apparel ,T-Shirt,5,25.0,0.15,106.25,West
+txn_0090,30/06/2023,CUST-1469,21.0,male,Electronics,Tablet,2,$350.00,20%,560.00,West
+TXN-0091,2023-09-07,CUST-1008,36.0,,Home-Appliances,Microwave Oven,1,$180.00,0.15,$153.00,east
+TXN-0092,2023-10-17,CUST-1434,59.0,male,Apparel ,Jacket,500,110.0,0.05,52250.00,  North 
+TXN-0093,2023-05-19,CUST-1278,38.0,,apparel,Jacket,1,110.0,25%,82.50,north
+TXN-0094,2023-06-27,CUST-1174,56.0,Female,,Running Shoes,3,$85.00,0.25,191.25,north
+TXN-0095,"May 18, 2023",CUST-1378,23.0,,ELECTRONICS,Laptop,4,950.0,,3800.00,East
+TXN-0096,07-17-2023,CUST-1371,33.0,M,home appliances, Vacuum Cleaner ,1,$160.00,5%,$152.00,  North 
+TXN-0097,23/08/2023,CUST-1170,39.0,female,  Electronics , Smartwatch ,2,$200.00,15%,340.00,South
+TXN-0098,"Jul 12, 2023",CUST-1102,61.0,Male,Apparel ,T-Shirt,1,25.0,15%,21.25,north
+TXN-0099,2023.11.03,CUST-1471,20.0,Female,clothing,Jacket,2,$110.00,0.05,209.00,East
+,2023-08-09,CUST-1382,54.0,Female,Appliances,Air Conditioner,4,650.0,10%,2340.00,East
+TXN-0101,2023-02-19,CUST-1153,,Male,Apparel,Jacket,2, 110.0 ,20%,176.00,east
+TXN-0102,2023.01.15,CUST-1219,31.0,male,clothing, Jeans ,3,60.0,0.2,144.00,  North 
+TXN-0103,12-11-2023,CUST-1344,37.0,Female,  Electronics ,Tablet,4,350.0,0.1,"$1,260.00",West
+TXN-0104,2023-01-28,CUST-1196,49.0,F,Apparel ,Hat,2,$18.00,0.1,$32.40,west
+105,10-21-2023,CUST-1187,66.0,FEMALE,Electro, Laptop ,3,$950.00,5%,"$2,707.50",  North 
+TXN-0106,2023.06.29,CUST-1071,21.0,FEMALE,Appliances, Refrigerator ,5,850.0,5%,"$4,037.50",south
+TXN-0107,2023-12-02,CUST-1364,61.0,M,HOME APPLIANCES,Vacuum Cleaner,1,160.0,0.2,,north
+TXN-0108,2023-08-23,CUST-1407,45.0,F,HOME APPLIANCES,Refrigerator,4,850.0,,"$3,400.00",NORTH
+TXN-0109,"Aug 22, 2023",CUST-1067,35.0,Female,APPAREL,Jacket,3,110.0,,$330.00,  North 
+txn_0110,"Sep 23, 2023",,45.0,F,Electro, Smartwatch ,3,$200.00,0.1,540.00,  North 
+TXN-0111,03-26-2023,CUST-1077,46.0,male,home appliances,Microwave Oven,4,$180.00,5%,$684.00,North
+TXN-0112,04/12/2023,CUST-1382,68.0,MALE,Home Appliances,Vacuum Cleaner,1, 160.0 ,25%,$120.00,north
+TXN-0113,2023-10-28,1030.0,36.0,FEMALE,Electro,Smartphone,5,$550.00,,"$2,750.00",East
+TXN-0114,2023-10-28,1357.0,33.0,male,Apparel,Jeans,2,60.0,0.15,$102.00,NORTH
+TXN-0115,2023-05-18,1413.0,34.0, Female ,Home-Appliances,Refrigerator,5,$850.00,0.25,"$3,187.50",North
+TXN-0116,01-24-2023,CUST-1476,63.0,female,electronics,Smartwatch,1,$200.00,5%,190.00,north
+TXN-0117,08-27-2023,CUST-1004,68.0, Female ,HOME APPLIANCES,Coffee Maker,2,75.0,20%,120.00,North
+TXN-0118,2023-01-01,CUST-1157,33.0,Male,apparel,T-Shirt,5,25.0,25%,$93.75,  North 
+TXN-0119,11/08/2023,CUST-1161,65.0,F,Electronics,Smartphone,1,$550.00,20%,$440.00,West
+txn_0120,03/03/2023,CUST-1360,38.0,MALE,Electro,Wireless Headphones,2,120.0,10%,$216.00,North
+TXN-0121,24/04/2023,CUST-1322,55.0,male,, Vacuum Cleaner ,2,160.0,20%,256.00,West
+TXN-0122,"Jul 15, 2023",CUST-1095,27.0,,electronics,Smartphone,4,$550.00,0.1,1980.00,west
+TXN-0123,2023-01-10,CUST-1248,38.0,M,,Air Conditioner,3,650.0,0.1,"$1,755.00",North
+TXN-0124,"Apr 23, 2023",CUST-1432,38.0,Female,Home Appliances,Air Conditioner,2,$650.00,0.2,"$1,040.00",  North 
+TXN-0125,"Jan 11, 2023",,26.0,M,ELECTRONICS, Smartwatch ,2,200.0,0.15,$340.00,East
+TXN-0126,"Mar 22, 2023",CUST-1332,53.0, Female ,electronics,Tablet,3,350.0,0.2,$840.00,East
+TXN-0127,2023-11-10,CUST-1072,40.0,M,Home Appliances,Coffee Maker,3,$75.00,5%,$213.75,West
+TXN-0128,"Aug 03, 2023",CUST-1279,68.0,MALE,Home Appliances,Refrigerator,3,$850.00,20%,2040.00,East
+TXN-0129,2023-11-11,,45.0,male,apparel,Hat,5,$18.00,5%,$85.50,North
+txn_0130,2023-02-14,CUST-1049,,  Male  ,Apparel ,Jeans,4,$60.00,20%,$192.00,south
+TXN-0131,27/08/2023,CUST-1077,23.0,FEMALE,clothing,Jacket,5,110.0,10%,495.00,west
+TXN-0132,2023.09.22,CUST-1061,28.0,MALE,Apparel , Hat ,2,$18.00,5%,34.20,west
+TXN-0133,2023-01-07,CUST-1214,54.0,male,clothing,Jacket,3,$110.00,0.25,$247.50,  North 
+TXN-0134,2023-12-22,CUST-1353,35.0,Male,HOME APPLIANCES,Microwave Oven,1,$180.00,0.2,144.00,north
+135,"Aug 15, 2023",CUST-1444,68.0,  Male  ,Electro, Smartwatch ,1, 200.0 ,,$200.00,South
+TXN-0136,2023.07.08,CUST-1348,, Female ,Electro,Wireless Headphones,3, 120.0 ,0.1,$324.00,South
+TXN-0137,2023-04-16,1399.0,48.0,M,Home Appliances,Microwave Oven,3,$180.00,15%,459.00,  North 
+TXN-0138,2023-01-04,CUST-1287,37.0,F,ELECTRONICS,Laptop,3, 950.0 ,,"$2,850.00",East
+TXN-0139,2023-03-13,CUST-1132,65.0,,Appliances,Microwave Oven,5,180.0,0.15,$765.00,north
+txn_0140,03-07-2023,CUST-1467,39.0,MALE,APPAREL,Jacket,5,110.0,0.25,$412.50,north
+TXN-0141,2023.12.15,1437.0,39.0, Female ,Home-Appliances, Vacuum Cleaner ,1, 160.0 ,5%,152.00,NORTH
+TXN-0142,2023.02.15,CUST-1219,20.0,Female,APPAREL,Jacket,1,$110.00,15%,$93.50,north
+TXN-0143,01-24-2023,CUST-1268,26.0,F,home appliances, Vacuum Cleaner ,1, 160.0 ,0.25,120.00,east
+TXN-0144,2023.11.24,CUST-1024,19.0,,Home-Appliances,Coffee Maker,2, 75.0 ,0.05,$142.50,north
+TXN-0145,11-13-2023,1101.0,51.0,Female,APPAREL, Running Shoes ,4,$85.00,0.05,$323.00,west
+TXN-0146,2023-02-21,CUST-1151,29.0,  Male  ,ELECTRONICS,Laptop,1,-$50.00,10%,$0.00,north
+TXN-0147,2023-06-25,CUST-1139,48.0,M,Apparel,T-Shirt,5,25.0,0.15,106.25,NORTH
+TXN-0148,"Sep 07, 2023",1335.0,61.0, Female ,apparel,Jacket,5,110.0,20%,440.00,west
+TXN-0149,2023-11-10,CUST-1434,28.0,F,HOME APPLIANCES,Coffee Maker,4,$75.00,25%,$225.00,West
+,2023-12-01,1281.0,, Female ,HOME APPLIANCES,Refrigerator,4,$850.00,,3400.00,  North 
+TXN-0151,2023-08-31,CUST-1049,39.0,  Male  ,APPAREL,Hat,2,18.0,10%,$32.40,South
+TXN-0152,"Jun 23, 2023",,25.0,F,Appliances,Refrigerator,5,850.0,0.25,"$3,187.50",NORTH
+TXN-0153,2023.07.18,CUST-1451,62.0,  Male  ,ELECTRONICS,Laptop,4,950.0,0.25,2850.00,South
+TXN-0154,11-16-2023,CUST-1067,29.0,Female,ELECTRONICS,Smartwatch,4,200.0,0.2,,NORTH
+TXN-0155,10/12/2023,CUST-1146,21.0,  Male  ,  Electronics , Smartphone ,5,550.0,0.15,"$2,337.50",East
+TXN-0156,2023-01-28,CUST-1399,32.0,Female,clothing,Running Shoes,2,$85.00,0.1,$153.00,south
+TXN-0157,16/05/2023,CUST-1169,20.0,Female,clothing,Running Shoes,5, 85.0 ,0.1,382.50,east
+TXN-0158,28/06/2023,CUST-1150,51.0,FEMALE,Electronics, Laptop ,5,$950.00,,4750.00,north
+TXN-0159,2023-05-12,CUST-1420,50.0,Male,apparel,Jeans,5, 60.0 ,0.1,270.00,east
+txn_0160,N/A,,22.0,  Male  ,Appliances,Microwave Oven,4, 180.0 ,25%,540.00,North
+TXN-0161,2023.02.07,CUST-1154,46.0,Male,Appliances,Refrigerator,5, 850.0 ,0.15,"$999,999.00",west
+TXN-0162,2023-03-05,CUST-1280,65.0,Female,  Electronics , Tablet ,3,$350.00,0.05,$997.50,west
+TXN-0163,2023-05-29,CUST-1297,26.0,MALE,  Electronics , Laptop ,3,$950.00,0.25,"$2,137.50",East
+TXN-0164,2023-04-24,CUST-1184,48.0,Female,Electro,Smartwatch,3,$200.00,0.15,510.00,west
+165,2023.01.16,CUST-1464,,FEMALE,home appliances,Microwave Oven,3, 180.0 ,0.05,513.00,NORTH
+TXN-0166,"Sep 21, 2023",CUST-1289,65.0,Female,,Air Conditioner,2,$650.00,15%,"$1,105.00",East
+TXN-0167,2023-12-27,CUST-1134,42.0,Female,Electronics,Laptop,5, 950.0 ,25%,"$3,562.50",west
+TXN-0168,24/05/2023,CUST-1367,44.0,male,Home-Appliances,Microwave Oven,4,$180.00,10%,$648.00,NORTH
+TXN-0169,"Apr 03, 2023",CUST-1009,36.0,MALE,Electro,Wireless Headphones,5,120.0,25%,$450.00,  North 
+txn_0170,"Apr 28, 2023",1267.0,44.0, Female ,Electro,Laptop,5,$950.00,0.1,,east
+TXN-0171,2023-08-04,CUST-1480,42.0, Female ,apparel,Running Shoes,1,85.0,0.05,,South
+TXN-0172,06-11-2023,CUST-1299,45.0, Female ,Home-Appliances,Refrigerator,4,850.0,25%,2550.00,north
+TXN-0173,2023-04-28,1260.0,53.0,Male,Home Appliances,Refrigerator,5,$850.00,0.05,"$4,037.50",west
+TXN-0174,02/11/2023,CUST-1103,51.0,Male,  Electronics ,Wireless Headphones,1,120.0,,120.00,east
+TXN-0175,2023-04-13,1046.0,53.0,Female,APPAREL,Hat,4,$18.00,0.05,$68.40,west
+TXN-0176,2023.10.03,CUST-1193,66.0,F,  Electronics ,Wireless Headphones,4,120.0,15%,408.00,south
+TXN-0177,"May 28, 2023",CUST-1038,38.0, Female ,electronics,Smartwatch,3,$200.00,25%,$450.00,West
+TXN-0178,2023.01.04,CUST-1190,54.0,F,clothing,Hat,1,18.0,,18.00,West
+TXN-0179,"Dec 24, 2023",1345.0,38.0,  Male  ,ELECTRONICS,Laptop,3,950.0,0.15,"$2,422.50",  North 
+txn_0180,2023-04-28,CUST-1221,65.0,Male,Home-Appliances, Microwave Oven ,5, 180.0 ,25%,$675.00,south
+TXN-0181,"Nov 19, 2023",CUST-1184,34.0,female,clothing, Jacket ,2,$110.00,25%,$165.00,south
+TXN-0182,20/11/2023,CUST-1215,22.0,Female,APPAREL,Jacket,4,110.0,0.25,330.00,NORTH
+TXN-0183,05-01-2023,CUST-1040,24.0,F,Home Appliances,Refrigerator,1,$850.00,20%,680.00,NORTH
+TXN-0184,2023-03-29,CUST-1166,52.0,FEMALE,clothing, Running Shoes ,5,85.0,0.2,$340.00,south
+TXN-0185,2023-06-05,CUST-1069,18.0,F,Electro,Tablet,5,$350.00,0.2,1400.00,east
+TXN-0186,07-13-2023,CUST-1264,62.0,  Male  ,Appliances,Vacuum Cleaner,2,$160.00,20%,$256.00,North
+TXN-0187,2023-01-12,1224.0,27.0,,Apparel ,Running Shoes,4,$85.00,,$340.00,east
+TXN-0188,06/10/2023,CUST-1418,-1.0,F,Electronics, Laptop ,2, 950.0 ,0.05,"$1,805.00",south
+TXN-0189,2023-07-04,1324.0,150.0,female,Electronics,Smartwatch,5, 200.0 ,25%,$750.00,East
+txn_0190,2023.03.20,1119.0,59.0,F,Home Appliances,Microwave Oven,1, 180.0 ,0.1,$162.00,  North 
+TXN-0191,2023-10-11,CUST-1419,18.0,FEMALE,home appliances,Coffee Maker,5,75.0,20%,$300.00,south
+TXN-0192,07-29-2023,CUST-1034,,M,apparel, T-Shirt ,4,25.0,15%,,South
+TXN-0193,"Sep 09, 2023",1285.0,41.0,Male,HOME APPLIANCES,Microwave Oven,1, 180.0 ,25%,135.00,NORTH
+TXN-0194,2023-10-13,CUST-1183,45.0,M,clothing,Running Shoes,5,$85.00,0.15,361.25,East
+195,2023.05.04,CUST-1474,46.0,female,, Hat ,2,$18.00,10%,32.40,south
+TXN-0196,2023.10.11,CUST-1048,,M,Appliances,Coffee Maker,5,75.0,20%,300.00,north
+TXN-0197,2023-11-25,CUST-1040,39.0,female,Apparel,Hat,5,18.0,,90.00,East
+TXN-0198,24/12/2023,CUST-1201,54.0,MALE,Apparel , Running Shoes ,1,$85.00,0.2,68.00,West
+TXN-0199,30/11/2023,CUST-1268,67.0, Female ,Apparel ,Jeans,5, 60.0 ,0.2,$240.00,East
+,invalid_date,CUST-1075,18.0,male,Electro, Tablet ,2,350.0,0.1,630.00,west
+TXN-0201,2023-05-11,CUST-1316,18.0,  Male  ,ELECTRONICS,Smartphone,0,550.0,15%,$0.00,West
+TXN-0202,12/01/2023,CUST-1250,40.0,Female,apparel,Running Shoes,1,85.0,0.05,$80.75,east
+TXN-0203,2023-03-12,CUST-1313,44.0,M,HOME APPLIANCES,Microwave Oven,2,180.0,10%,$324.00,NORTH
+TXN-0204,10-17-2023,CUST-1368,27.0,Female,Home-Appliances,Microwave Oven,3,$180.00,0.05,513.00,South
+TXN-0205,2023-04-29,,26.0, Female ,APPAREL, Hat ,2,$18.00,0.05,34.20,South
+TXN-0206,15/04/2023,CUST-1443,47.0,female,Home Appliances,Air Conditioner,4,650.0,0.05,"$2,470.00",South
+TXN-0207,2023-10-03,,21.0,F,APPAREL,Running Shoes,3,$85.00,10%,229.50,NORTH
+TXN-0208,2023.10.27,CUST-1230,,MALE,Home Appliances,Air Conditioner,2,$650.00,0.2,1040.00,west
+TXN-0209,2023.03.23,CUST-1467,27.0,M,Apparel,Hat,4,$18.00,10%,,West
+txn_0210,2023-09-13,CUST-1111,44.0, Female ,home appliances,Vacuum Cleaner,2,$160.00,5%,304.00,East
+TXN-0211,2023-02-14,CUST-1344,62.0,FEMALE,Home-Appliances,Coffee Maker,3,75.0,25%,168.75,East
+TXN-0212,31/07/2023,CUST-1055,51.0,F,clothing,Running Shoes,5,$85.00,25%,318.75,West
+TXN-0213,03/04/2023,CUST-1000,68.0,MALE,Apparel ,Jacket,2,$110.00,5%,$209.00,East
+TXN-0214,2023.07.22,1089.0,61.0,F,apparel,T-Shirt,5,25.0,0.05,$118.75,west
+TXN-0215,2023-04-17,CUST-1407,35.0,Female,  Electronics ,Smartphone,5, 550.0 ,5%,"$2,612.50",south
+TXN-0216,26/09/2023,CUST-1398,50.0,,  Electronics , Smartwatch ,5,$200.00,0.05,$950.00,North
+TXN-0217,2023.07.18,CUST-1022,23.0,Male,APPAREL, Jacket ,2,$110.00,0.15,$187.00,north
+TXN-0218,2023.11.15,CUST-1281,63.0, Female ,Electronics,Smartphone,1,550.0,5%,522.50,West
+TXN-0219,07-02-2023,CUST-1343,66.0, Female ,Apparel , Hat ,4, 18.0 ,0.15,61.20,East
+txn_0220,2023-09-07,CUST-1236,40.0,M,Apparel ,Jacket,1,110.0,25%,$82.50,South
+TXN-0221,"Dec 22, 2023",CUST-1403,29.0,male,Appliances,Vacuum Cleaner,3, 160.0 ,0.05,456.00,East
+TXN-0222,2023-11-27,CUST-1454,18.0,M,APPAREL,Jacket,3,110.0,0.2,264.00,  North 
+TXN-0223,07-26-2023,CUST-1495,,Female,APPAREL,Running Shoes,4,85.0,0.1,$306.00,East
+TXN-0224,08-02-2023,CUST-1068,,M,Home-Appliances,Vacuum Cleaner,2,160.0,0.25,$240.00,West
+225,01/07/2023,1255.0,50.0,FEMALE,Apparel,Jeans,1, 60.0 ,0.25,$45.00,north
+TXN-0226,09/11/2023,CUST-1491,52.0,  Male  ,APPAREL,Running Shoes,-1,85.0,15%,0.00,  North 
+TXN-0227,"Feb 01, 2023",CUST-1336,57.0,,electronics,Wireless Headphones,2,$120.00,0.05,228.00,East
+TXN-0228,2023-03-31,CUST-1270,23.0, Female ,home appliances,Air Conditioner,4,650.0,15%,"$2,210.00",West
+TXN-0229,"Sep 01, 2023",CUST-1272,42.0,M,Apparel , Jeans ,3, 60.0 ,0.15,153.00,East
+txn_0230,2023-05-17,CUST-1236,64.0,MALE,electronics,Wireless Headphones,-2,$120.00,,$0.00,south
+TXN-0231,2023-04-09,1304.0,56.0,male,  Electronics , Wireless Headphones ,5,$120.00,10%,540.00,south
+TXN-0232,2023-08-07,CUST-1082,21.0,Female,HOME APPLIANCES,Air Conditioner,4,$650.00,20%,2080.00,north
+TXN-0233,08-15-2023,1292.0,19.0,M,Home Appliances,Coffee Maker,3,75.0,20%,180.00,north
+TXN-0234,"Apr 26, 2023",CUST-1246,40.0,  Male  ,Apparel,Running Shoes,4,$85.00,25%,255.00,north
+TXN-0235,"Dec 19, 2023",CUST-1376,19.0, Female ,Home-Appliances, Microwave Oven ,5,180.0,,900.00,east
+TXN-0236,2023-04-19,CUST-1347,65.0,male,, Laptop ,5, 950.0 ,0.05,4512.50,  North 
+TXN-0237,"Feb 24, 2023",CUST-1032,65.0,Female,  Electronics ,Laptop,2, 950.0 ,0.1,"$1,710.00",South
+TXN-0238,25/10/2023,CUST-1313,49.0,Male,Home Appliances,Coffee Maker,4,$75.00,25%,225.00,  North 
+TXN-0239,2023-09-13,CUST-1178,30.0,FEMALE,  Electronics ,Tablet,2, 350.0 ,,700.00,West
+txn_0240,invalid_date,CUST-1107,66.0,male,clothing, Jacket ,1,$110.00,25%,$82.50,north
+TXN-0241,27/04/2023,CUST-1192,55.0,female,clothing,T-Shirt,2, 25.0 ,25%,$37.50,NORTH
+TXN-0242,06-25-2023,CUST-1326,54.0,MALE,Appliances,Air Conditioner,4,650.0,15%,2210.00,  North 
+TXN-0243,2023-01-03,,20.0,female,Home Appliances,Coffee Maker,1, 75.0 ,0.1,$67.50,West
+TXN-0244,2023.10.20,,63.0,Female,Home Appliances,Vacuum Cleaner,3,$160.00,0.25,$360.00,East
+TXN-0245,2023-01-29,1196.0,41.0,FEMALE,Appliances,Refrigerator,2,850.0,0.1,1530.00,west
+TXN-0246,2023-08-05,CUST-1248,48.0,FEMALE,Home-Appliances,Microwave Oven,1, 180.0 ,10%,$162.00,NORTH
+TXN-0247,2023.03.19,1213.0,26.0,female,Apparel,Jacket,2, 110.0 ,15%,187.00,West
+TXN-0248,10-18-2023,CUST-1247,21.0,  Male  ,electronics,Wireless Headphones,2,120.0,10%,216.00,West
+TXN-0249,09/07/2023,1162.0,46.0,M,Electronics,Wireless Headphones,2, 120.0 ,0.25,$180.00,south
+,21/10/2023,CUST-1472,64.0,Male,Appliances, Air Conditioner ,2,$650.00,,"$1,300.00",south
+TXN-0251,2023.01.12,CUST-1490,30.0, Female ,Electronics,Smartwatch,4,$200.00,15%,$680.00,West
+TXN-0252,"Aug 01, 2023",CUST-1496,44.0, Female ,home appliances,Refrigerator,3,850.0,,"$2,550.00",west
+TXN-0253,18/10/2023,CUST-1148,37.0,  Male  ,Apparel ,Jacket,3,110.0,15%,$280.50,north
+TXN-0254,2023-05-22,CUST-1246,58.0,male,Appliances, Air Conditioner ,2, 650.0 ,15%,"$1,105.00",south
+255,2023.11.24,CUST-1391,52.0,Female,APPAREL,Running Shoes,5, 85.0 ,0.15,$361.25,South
+TXN-0256,15/09/2023,CUST-1353,52.0,male,Electronics, Tablet ,3,$350.00,0.25,$787.50,north
+TXN-0257,07/03/2023,CUST-1107,62.0,male,Electro,Smartwatch,5,200.0,,,north
+TXN-0258,05/03/2023,CUST-1343,65.0, Female ,home appliances,Air Conditioner,5,$650.00,0.05,"$3,087.50",west
+TXN-0259,2023.02.20,CUST-1357,24.0,Female,Electro,Smartphone,3,$550.00,0.15,"$1,402.50",north
+txn_0260,2023.05.26,CUST-1430,36.0,female,Apparel,Jeans,3,60.0,0.2,$144.00,  North 
+TXN-0261,03-28-2023,CUST-1304,32.0,F,  Electronics ,Laptop,4,950.0,25%,"$2,850.00",West
+TXN-0262,2023-11-18,1034.0,29.0,Female,  Electronics ,Smartwatch,5, 200.0 ,0.2,800.00,North
+TXN-0263,2023-01-17,CUST-1192,29.0,  Male  ,home appliances,Air Conditioner,4,650.0,0.25,1950.00,east
+TXN-0264,"Sep 11, 2023",CUST-1500,55.0,,ELECTRONICS,Wireless Headphones,3,120.0,0.05,342.00,north
+TXN-0265,06-06-2023,CUST-1019,54.0,female,Home-Appliances,Vacuum Cleaner,4,$160.00,10%,$576.00,  North 
+TXN-0266,06/07/2023,CUST-1403,31.0,Male,  Electronics ,Wireless Headphones,1,120.0,0.25,90.00,south
+TXN-0267,2023-06-03,CUST-1205,60.0,M,clothing,Running Shoes,4,85.0,0.2,$272.00,West
+TXN-0268,2023-05-04,CUST-1222,22.0,female,ELECTRONICS,Tablet,4,$350.00,,"$1,400.00",east
+TXN-0269,28/11/2023,1132.0,53.0,Male,Apparel ,Jeans,3,60.0,0.15,153.00,NORTH
+txn_0270,2023-02-27,1340.0,51.0,male,Electronics,Smartwatch,4,200.0,5%,$760.00,  North 
+TXN-0271,09-09-2023,1279.0,35.0,M,ELECTRONICS,Smartphone,5,550.0,,"$2,750.00",east
+TXN-0272,11-24-2023,CUST-1273,42.0,,ELECTRONICS,Wireless Headphones,3,120.0,0.2,288.00,West
+TXN-0273,2023-07-31,CUST-1051,50.0,female,clothing,Jacket,1,$110.00,10%,99.00,north
+TXN-0274,2023-05-08,CUST-1390,44.0,Female,electronics,Tablet,3, 350.0 ,25%,787.50,South
+TXN-0275,15/02/2023,CUST-1025,34.0,Female,Appliances, Coffee Maker ,4, 75.0 ,15%,255.00,  North 
+TXN-0276,2023-05-25,CUST-1405,34.0,F,ELECTRONICS,Smartwatch,4,$200.00,0.1,$720.00,north
+TXN-0277,01-31-2023,CUST-1181,56.0,Male,,Running Shoes,3, 85.0 ,0.1,$229.50,East
+TXN-0278,29/09/2023,CUST-1065,35.0,female,HOME APPLIANCES,Refrigerator,3,$850.00,0.2,2040.00,West
+TXN-0279,2023-04-07,1133.0,25.0,F,,Smartphone,4, 550.0 ,0.1,1980.00,south
+txn_0280,06/12/2023,CUST-1269,22.0,F,APPAREL, Hat ,4, 18.0 ,5%,$68.40,south
+TXN-0281,12-03-2023,CUST-1486,64.0, Female ,Apparel,Hat,1, 18.0 ,0.1,16.20,NORTH
+TXN-0282,2023-07-26,CUST-1061,65.0,  Male  ,clothing, Jeans ,5, 60.0 ,25%,225.00,east
+TXN-0283,2023-08-07,CUST-1346,27.0,FEMALE,Appliances, Microwave Oven ,4,180.0,0.1,$648.00,North
+TXN-0284,"Feb 25, 2023",CUST-1368,34.0,FEMALE,,Running Shoes,4,85.0,0.2,$272.00,NORTH
+285,2023-04-05,CUST-1344,18.0,Male,Electro,Smartwatch,5,$200.00,25%,$750.00,south
+TXN-0286,2023-03-06,CUST-1356,31.0,M,Electro,Laptop,1,950.0,,950.00,West
+TXN-0287,2023.01.11,CUST-1424,18.0,female,Apparel ,Jacket,3,$110.00,0.25,$247.50,North
+TXN-0288,2023.01.10,1457.0,25.0,Female,Apparel , Running Shoes ,3,85.0,0.25,191.25,east
+TXN-0289,2023-12-11,CUST-1497,36.0,male,apparel, Jeans ,4, 60.0 ,5%,$228.00,west
+txn_0290,"Feb 02, 2023",CUST-1287,39.0,Male,  Electronics ,Smartphone,5,$550.00,,2750.00,north
+TXN-0291,2023-11-09,1053.0,31.0,M,Electro,Laptop,2,$950.00,10%,"$1,710.00",West
+TXN-0292,27/05/2023,CUST-1386,33.0,FEMALE,apparel, T-Shirt ,4,25.0,20%,"$999,999.00",west
+TXN-0293,02-13-2023,CUST-1222,60.0,M,Electronics,Laptop,5,950.0,0.15,4037.50,west
+TXN-0294,"Mar 17, 2023",CUST-1278,46.0,female,APPAREL, Hat ,2, 18.0 ,0.15,$30.60,west
+TXN-0295,05-13-2023,CUST-1056,34.0,Female,Apparel,Hat,1000,18.0,0.25,13500.00,  North 
+TXN-0296,"Mar 13, 2023",CUST-1167,67.0,male,Home-Appliances,Microwave Oven,2, 180.0 ,0.25,270.00,east
+TXN-0297,2023-12-19,CUST-1073,47.0,FEMALE,Apparel,Jacket,2,$110.00,0.25,$165.00,west
+TXN-0298,03-02-2023,CUST-1248,, Female ,ELECTRONICS,Tablet,4,$0.00,5%,0.00,east
+TXN-0299,07/11/2023,CUST-1230,64.0, Female ,Apparel ,Jacket,1,110.0,0.1,99.00,west
+,2023.03.05,CUST-1277,54.0,F,Home Appliances, Microwave Oven ,1,$180.00,25%,$135.00,North
+TXN-0301,"Jan 12, 2023",1270.0,25.0,FEMALE,apparel, Jacket ,4,$110.00,10%,$396.00,east
+TXN-0302,"Jun 15, 2023",CUST-1026,55.0,FEMALE,Home-Appliances,Coffee Maker,5,75.0,5%,$356.25,west
+TXN-0303,2023.03.06,1325.0,27.0,M,Appliances,Microwave Oven,1,0.0,25%,,West
+TXN-0304,2023-11-03,CUST-1323,36.0,,  Electronics , Wireless Headphones ,2,120.0,0.25,$180.00,south
+TXN-0305,20/08/2023,CUST-1107,19.0,M,Home Appliances,Air Conditioner,-2,650.0,0.2,$0.00,North
+TXN-0306,2023-12-10,CUST-1192,29.0,Male,HOME APPLIANCES,Coffee Maker,1,75.0,0.25,56.25,East
+TXN-0307,2023-05-24,CUST-1100,25.0, Female ,electronics,Smartphone,5,$550.00,5%,2612.50,south
+TXN-0308,2023-12-14,CUST-1348,45.0,Male,ELECTRONICS,Smartwatch,5,$200.00,10%,$900.00,east
+TXN-0309,2023.06.21,CUST-1115,22.0,MALE,ELECTRONICS, Smartwatch ,4,200.0,15%,680.00,East
+txn_0310,2023.05.02,CUST-1320,21.0,female,Apparel,Running Shoes,1, 85.0 ,25%,63.75,east
+TXN-0311,2023-11-03,CUST-1237,57.0,Male,ELECTRONICS,Smartwatch,1,200.0,25%,$150.00,South
+TXN-0312,23/01/2023,CUST-1491,55.0,M,ELECTRONICS,Tablet,5, 350.0 ,0.25,"$1,312.50",South
+TXN-0313,05/02/2023,CUST-1239,55.0,Female,Home-Appliances,Air Conditioner,1,650.0,0.2,520.00,East
+TXN-0314,"Jul 12, 2023",CUST-1185,,FEMALE,HOME APPLIANCES,Air Conditioner,3,$650.00,10%,1755.00,South
+315,11/04/2023,CUST-1010,59.0,male,electronics,Tablet,2,350.0,5%,$665.00,west
+TXN-0316,12-22-2023,CUST-1125,55.0,FEMALE,apparel,Jeans,2,60.0,0.05,$114.00,east
+TXN-0317,2023.11.27,CUST-1091,62.0,F,Appliances,Air Conditioner,1,650.0,10%,585.00,East
+TXN-0318,09/10/2023,CUST-1265,47.0,Female,Electro,Wireless Headphones,3,$120.00,5%,342.00,north
+TXN-0319,2023-05-22,CUST-1279,39.0,  Male  ,Appliances,Air Conditioner,5,$650.00,0.15,2762.50,North
+txn_0320,01/12/2023,CUST-1370,51.0,FEMALE,Apparel ,Jacket,4, 110.0 ,25%,$330.00,North
+TXN-0321,12-04-2023,CUST-1385,52.0, Female ,,Jacket,3,110.0,0.2,264.00,South
+TXN-0322,2023.02.25,CUST-1155,53.0, Female ,apparel, Jacket ,2, 110.0 ,,220.00,east
+TXN-0323,22/03/2023,CUST-1035,31.0,MALE,Apparel , Jeans ,2, 60.0 ,,$120.00,South
+TXN-0324,"Jun 18, 2023",CUST-1377,47.0,  Male  ,apparel,Running Shoes,4, 85.0 ,0.2,$272.00,west
+TXN-0325,2023-12-08,CUST-1465,53.0,Female,Electronics,Wireless Headphones,2,120.0,,$240.00,east
+TXN-0326,2023-04-10,,38.0,F,Home Appliances, Vacuum Cleaner ,4,160.0,0.05,608.00,NORTH
+TXN-0327,2023-12-10,CUST-1183,61.0,F,  Electronics ,Laptop,4,950.0,,"$3,800.00",South
+TXN-0328,"Feb 16, 2023",,,male,Electronics,Smartwatch,2,200.0,0.1,$360.00,South
+TXN-0329,02-24-2023,CUST-1161,,MALE,ELECTRONICS,Smartwatch,2,200.0,0.25,$300.00,north
+txn_0330,2023-06-16,CUST-1394,58.0,Female,Apparel , Hat ,0,18.0,5%,$0.00,east
+TXN-0331,2023-05-05,CUST-1151,59.0,,Appliances,Air Conditioner,2,650.0,0.2,,East
+TXN-0332,2023.05.05,CUST-1127,32.0,female,apparel,T-Shirt,-1,$25.00,0.1,0.00,South
+TXN-0333,"Sep 17, 2023",CUST-1369,56.0,  Male  ,electronics,Smartwatch,3,$200.00,0.25,450.00,West
+TXN-0334,2023-07-15,CUST-1304,29.0,F,ELECTRONICS,Smartphone,2,$550.00,5%,"$1,045.00",east
+TXN-0335,"Jul 11, 2023",CUST-1036,25.0, Female ,Apparel ,Jeans,3,60.0,0.2,$144.00,East
+TXN-0336,2023-12-13,1309.0,34.0, Female ,home appliances, Microwave Oven ,4,180.0,0.1,648.00,west
+TXN-0337,2023.12.04,CUST-1448,24.0,Female,APPAREL,Running Shoes,3,-$50.00,5%,$0.00,south
+TXN-0338,09/08/2023,CUST-1101,25.0,MALE,Home Appliances,Refrigerator,4, 850.0 ,5%,"$3,230.00",  North 
+TXN-0339,2023-09-02,1136.0,-5.0,FEMALE,Electro,Smartwatch,4,$200.00,0.15,$680.00,East
+txn_0340,2023.07.24,CUST-1169,250.0,M,, Microwave Oven ,2,180.0,0.2,"$999,999.00",East
+TXN-0341,2023-11-21,CUST-1347,43.0,male,Electro,Smartphone,4,$550.00,0.25,"$1,650.00",West
+TXN-0342,2023-02-14,CUST-1239,25.0,FEMALE,home appliances, Air Conditioner ,1, 650.0 ,0.2,$520.00,north
+TXN-0343,2023-03-11,1354.0,54.0, Female ,HOME APPLIANCES,Microwave Oven,4,180.0,10%,$648.00,  North 
+TXN-0344,2023-04-07,1160.0,18.0, Female ,Home-Appliances,Coffee Maker,2, 75.0 ,0.25,$112.50,South
+345,15/12/2023,1340.0,20.0,  Male  ,Apparel,Jacket,2, 110.0 ,15%,187.00,South
+TXN-0346,27/01/2023,CUST-1153,28.0,FEMALE,Home-Appliances,Refrigerator,4, 850.0 ,25%,2550.00,North
+TXN-0347,2023-06-05,1356.0,31.0,MALE,Home Appliances,Vacuum Cleaner,2,160.0,5%,$304.00,west
+TXN-0348,"Jun 23, 2023",CUST-1206,43.0, Female ,Home-Appliances,Microwave Oven,1,180.0,20%,$144.00,west
+TXN-0349,2023.01.12,CUST-1355,29.0,female,electronics, Smartwatch ,5, 200.0 ,0.25,750.00,west
+,30/11/2023,CUST-1092,18.0,Female,home appliances,Refrigerator,3,$850.00,25%,1912.50,North
+TXN-0351,2023.06.03,CUST-1273,62.0,Female,  Electronics ,Smartwatch,2,$200.00,0.1,$360.00,NORTH
+TXN-0352,2023-11-15,CUST-1332,23.0,female,home appliances,Refrigerator,2,850.0,10%,"$1,530.00",North
+TXN-0353,05-07-2023,1280.0,23.0,Female,apparel,Hat,1000,$18.00,5%,17100.00,West
+TXN-0354,2023-09-28,CUST-1138,28.0,female,  Electronics ,Laptop,5,$950.00,0.1,"$4,275.00",East
+TXN-0355,2023.05.08,CUST-1224,50.0,female,home appliances,Refrigerator,4,850.0,,3400.00,north
+TXN-0356,"May 27, 2023",1485.0,64.0,F,Appliances,Refrigerator,1,850.0,0.25,$637.50,west
+TXN-0357,2023-04-26,1180.0,42.0,male,home appliances,Coffee Maker,3,$75.00,25%,168.75,west
+TXN-0358,2023.01.19,1003.0,40.0,Female,home appliances,Vacuum Cleaner,-1,$160.00,10%,,south
+TXN-0359,08-29-2023,CUST-1093,46.0,F,ELECTRONICS,Smartwatch,0,$200.00,,0.00,NORTH
+txn_0360,,CUST-1253,38.0,female,Home-Appliances, Microwave Oven ,2,180.0,15%,,West
+TXN-0361,2023-05-25,CUST-1078,35.0,  Male  ,electronics,Wireless Headphones,1, 120.0 ,0.25,$90.00,south
+TXN-0362,2023-03-16,1026.0,62.0,MALE,Electro,Smartwatch,3,$200.00,20%,$480.00,East
+TXN-0363,05-27-2023,1094.0,39.0,male,  Electronics ,Smartwatch,3,200.0,15%,$510.00,  North 
+TXN-0364,2023-01-22,CUST-1228,52.0,  Male  ,electronics,Laptop,4,$950.00,0.25,2850.00,east
+TXN-0365,2023.09.05,CUST-1011,26.0, Female ,electronics,Laptop,5,$950.00,0.2,"$3,800.00",North
+TXN-0366,2023.10.20,CUST-1404,64.0,  Male  ,ELECTRONICS,Tablet,1,$350.00,0.15,297.50,South
+TXN-0367,2023-04-18,,41.0,FEMALE,home appliances,Vacuum Cleaner,1,$160.00,15%,136.00,  North 
+TXN-0368,2023-12-19,CUST-1309,32.0,MALE,Electro, Laptop ,3,950.0,10%,2565.00,North
+TXN-0369,"Mar 25, 2023",CUST-1073,59.0,male,electronics,Wireless Headphones,4,$120.00,,$480.00,north
+txn_0370,2023.03.15,,24.0,Female,Electronics,Wireless Headphones,4,$120.00,10%,$432.00,North
+TXN-0371,2023-10-06,CUST-1072,,MALE,electronics,Laptop,4,950.0,5%,"$3,610.00",East
+TXN-0372,2023-07-04,CUST-1271,45.0,  Male  ,ELECTRONICS,Laptop,3,950.0,,"$999,999.00",NORTH
+TXN-0373,12-02-2023,CUST-1407,22.0,female,HOME APPLIANCES, Air Conditioner ,4,650.0,0.25,1950.00,South
+TXN-0374,"Aug 03, 2023",CUST-1274,55.0,FEMALE,apparel,Jeans,500, 60.0 ,15%,"$25,500.00",West
+375,10/10/2023,CUST-1382,63.0,Male,Electro,Tablet,1, 350.0 ,10%,315.00,NORTH
+TXN-0376,2023-04-04,CUST-1485,39.0,Male,home appliances, Air Conditioner ,2,$650.00,0.2,1040.00,South
+TXN-0377,2023-03-22,CUST-1064,21.0,M,clothing,Jeans,4,60.0,0.15,$204.00,  North 
+TXN-0378,21/06/2023,CUST-1033,150.0,MALE,Home Appliances,Air Conditioner,1, 650.0 ,15%,$552.50,South
+TXN-0379,07-20-2023,CUST-1049,50.0,M,,T-Shirt,1,$25.00,0.05,23.75,NORTH
+txn_0380,2023.03.24,CUST-1267,68.0,  Male  ,Home-Appliances, Air Conditioner ,2, 650.0 ,20%,"$999,999.00",south
+TXN-0381,2023-02-14,CUST-1151,41.0,male,Apparel ,Running Shoes,4,$85.00,25%,$255.00,  North 
+TXN-0382,"Dec 15, 2023",CUST-1487,44.0,  Male  ,Home Appliances,Coffee Maker,2, 75.0 ,20%,$120.00,West
+TXN-0383,"Feb 17, 2023",CUST-1418,64.0,female,home appliances,Microwave Oven,5,180.0,0.05,$855.00,  North 
+TXN-0384,"Nov 04, 2023",CUST-1404,21.0,Male,Electro,Smartphone,1,$550.00,0.2,$440.00,North
+TXN-0385,08-08-2023,CUST-1214,68.0,female,  Electronics ,Laptop,0,950.0,15%,$0.00,East
+TXN-0386,12-12-2023,1230.0,58.0, Female ,electronics,Laptop,2,$950.00,0.1,,East
+TXN-0387,2023.06.04,1255.0,44.0,FEMALE,ELECTRONICS, Smartphone ,2,$550.00,0.15,$935.00,  North 
+TXN-0388,2023-02-20,1477.0,66.0,FEMALE,Home-Appliances,Coffee Maker,4,75.0,0.2,$240.00,east
+TXN-0389,11/07/2023,CUST-1337,68.0,MALE,,Smartphone,3,550.0,0.1,1485.00,South
+txn_0390,2023-11-26,CUST-1065,64.0,Female,Apparel ,Hat,1,18.0,0.15,$15.30,North
+TXN-0391,2023.01.06,CUST-1278,42.0,,Apparel ,Jeans,2, 60.0 ,0.2,96.00,North
+TXN-0392,2023-10-24,CUST-1054,29.0,F,home appliances,Microwave Oven,1, 180.0 ,0.15,$153.00,NORTH
+TXN-0393,2023.10.18,1175.0,57.0,Male,HOME APPLIANCES,Microwave Oven,1, 180.0 ,10%,162.00,NORTH
+TXN-0394,21/05/2023,CUST-1282,49.0,female,ELECTRONICS, Wireless Headphones ,3,$120.00,25%,$270.00,West
+TXN-0395,11-02-2023,CUST-1310,40.0,male,Apparel,Jeans,5,60.0,5%,$285.00,South
+TXN-0396,04-21-2023,CUST-1062,,Female,  Electronics ,Laptop,4,$950.00,25%,2850.00,north
+TXN-0397,2023-11-27,CUST-1163,49.0,  Male  ,Apparel,Hat,2,$18.00,0.25,27.00,east
+TXN-0398,2023-10-01,1240.0,64.0,Female,Electro, Smartphone ,1,550.0,0.05,$522.50,North
+TXN-0399,2023-02-23,CUST-1045,41.0,FEMALE,Electronics,Tablet,3,$350.00,20%,$840.00,NORTH
+,2023.03.17,CUST-1211,51.0, Female ,Apparel ,T-Shirt,2,25.0,0.1,$45.00,West
+TXN-0401,2023-04-19,CUST-1096,55.0,FEMALE,ELECTRONICS,Smartphone,1,$550.00,0.2,$440.00,south
+TXN-0402,03-26-2023,CUST-1052,65.0,Male,apparel,Jeans,3, 60.0 ,10%,$162.00,East
+TXN-0403,"Jan 26, 2023",CUST-1150,35.0,F,Electronics,Laptop,2,950.0,25%,1425.00,east
+TXN-0404,2023-02-21,CUST-1253,40.0, Female ,Apparel, Jeans ,4,60.0,5%,228.00,West
+405,21/06/2023,CUST-1087,56.0,F,Apparel ,Jeans,1,60.0,0.1,54.00,East
+TXN-0406,09-09-2023,CUST-1249,40.0,Female,clothing,Jacket,1, 110.0 ,15%,93.50,East
+TXN-0407,"Feb 15, 2023",CUST-1449,46.0,FEMALE,ELECTRONICS,Smartwatch,3,$200.00,0.15,510.00,East
+TXN-0408,"Feb 26, 2023",1348.0,57.0,M,ELECTRONICS, Wireless Headphones ,2, 120.0 ,20%,$192.00,south
+TXN-0409,2023.09.15,1138.0,45.0,male,Home Appliances,Air Conditioner,4, 650.0 ,0.15,2210.00,  North 
+txn_0410,16/12/2023,CUST-1102,54.0,F,Electro,Tablet,5,$350.00,15%,"$1,487.50",North
+TXN-0411,"Oct 14, 2023",1464.0,50.0, Female ,Appliances,Coffee Maker,2,$75.00,25%,112.50,north
+TXN-0412,11-01-2023,CUST-1442,61.0,Male,clothing, T-Shirt ,2, 25.0 ,0.05,$47.50,NORTH
+TXN-0413,2023-03-03,1012.0,21.0,  Male  ,apparel,Hat,5,18.0,5%,$85.50,west
+TXN-0414,09-01-2023,1301.0,43.0,male,Electro, Smartwatch ,4,$200.00,25%,$600.00,West
+TXN-0415,01-05-2023,CUST-1107,42.0,M,ELECTRONICS,Wireless Headphones,2, 120.0 ,20%,192.00,west
+TXN-0416,12-04-2023,CUST-1489,43.0,Male,home appliances,Air Conditioner,4,$650.00,10%,"$2,340.00",east
+TXN-0417,2023.02.02,1383.0,56.0,Male,HOME APPLIANCES, Coffee Maker ,5,$75.00,15%,318.75,South
+TXN-0418,2023-10-26,1017.0,41.0, Female ,Electronics,Laptop,5,950.0,15%,4037.50,West
+TXN-0419,2023-11-17,1264.0,32.0,FEMALE,apparel,Jeans,4,$60.00,15%,204.00,west
+txn_0420,2023-07-24,CUST-1298,34.0,Male,ELECTRONICS,Wireless Headphones,2,120.0,5%,228.00,North
+TXN-0421,2023.02.06,CUST-1454,35.0,male,,T-Shirt,3, 25.0 ,0.05,71.25,North
+TXN-0422,"Sep 04, 2023",CUST-1220,25.0, Female ,APPAREL,Running Shoes,2, 85.0 ,0.25,,South
+TXN-0423,2023-01-30,CUST-1022,33.0,M,Home-Appliances,Vacuum Cleaner,5,160.0,10%,720.00,South
+TXN-0424,2023-05-17,1177.0,57.0,male,apparel,Running Shoes,5,$85.00,10%,382.50,north
+TXN-0425,09-13-2023,CUST-1423,57.0,Male,Electro,Smartphone,4, 550.0 ,0.05,2090.00,south
+TXN-0426,2023-10-30,CUST-1222,65.0,male,HOME APPLIANCES,Air Conditioner,5, 650.0 ,0.2,"$2,600.00",south
+TXN-0427,2023.05.08,CUST-1019,60.0, Female ,,Laptop,2,$950.00,,1900.00,west
+TXN-0428,2023.07.29,CUST-1312,46.0,  Male  ,Electro, Smartwatch ,5,$200.00,0.1,$900.00,South
+TXN-0429,2023-05-13,CUST-1180,33.0,male,Electronics,Smartphone,3, 550.0 ,15%,"$1,402.50",east
+txn_0430,"Nov 30, 2023",CUST-1015,27.0,Male,home appliances,Coffee Maker,5,75.0,25%,281.25,north
+TXN-0431,2023.04.25,CUST-1375,51.0, Female ,  Electronics ,Laptop,5,$950.00,15%,4037.50,West
+TXN-0432,2023-07-29,CUST-1468,32.0,female,home appliances,Refrigerator,5,850.0,5%,4037.50,South
+TXN-0433,2023-04-03,CUST-1391,65.0,Male,Home Appliances,Coffee Maker,5, 75.0 ,25%,281.25,East
+TXN-0434,2023-11-08,1378.0,44.0,female,Apparel ,Hat,5, 18.0 ,0.25,$67.50,NORTH
+435,2023-10-29,CUST-1024,55.0,female,Apparel ,Running Shoes,2,$85.00,15%,$144.50,West
+TXN-0436,03-28-2023,CUST-1473,24.0,FEMALE,Electronics,Smartwatch,5,$200.00,5%,$950.00,West
+TXN-0437,03-06-2023,CUST-1470,45.0,male,APPAREL,Running Shoes,1,$85.00,,$85.00,west
+TXN-0438,2023-02-07,CUST-1221,51.0,FEMALE,Home Appliances,Microwave Oven,5,180.0,10%,$810.00,north
+TXN-0439,"Apr 20, 2023",CUST-1106,62.0,female,apparel,Running Shoes,2,85.0,0.2,$136.00,north
+txn_0440,02-27-2023,CUST-1126,47.0,male,Electro,Smartwatch,4, 200.0 ,0.1,720.00,south
+TXN-0441,"Jun 12, 2023",CUST-1133,64.0,Male,Home-Appliances,Microwave Oven,1, 180.0 ,0.05,171.00,East
+TXN-0442,2023.06.30,1107.0,28.0,female,home appliances,Coffee Maker,4,75.0,,$300.00,east
+TXN-0443,06/09/2023,1323.0,35.0,female,home appliances,Air Conditioner,1,650.0,0.05,$617.50,  North 
+TXN-0444,2023.07.20,CUST-1217,35.0,male,Appliances,Air Conditioner,4,650.0,10%,2340.00,west
+TXN-0445,25/02/2023,1394.0,54.0,  Male  ,Home Appliances, Refrigerator ,4,$850.00,0.2,"$2,720.00",West
+TXN-0446,2023-07-30,CUST-1164,18.0,MALE,Electro,Wireless Headphones,3,120.0,0.05,$342.00,North
+TXN-0447,2023-09-24,CUST-1497,49.0,FEMALE,  Electronics ,Tablet,-2,$350.00,0.15,0.00,NORTH
+TXN-0448,25/09/2023,CUST-1190,47.0,Female,electronics, Wireless Headphones ,3,$120.00,,$360.00,north
+TXN-0449,2023-08-23,CUST-1080,32.0,Male,APPAREL,Running Shoes,3,85.0,10%,$229.50,south
+,2023.02.22,CUST-1169,56.0, Female ,Apparel ,Hat,-2,$18.00,10%,,north
+TXN-0451,2023.01.27,CUST-1241,25.0,female,Home-Appliances,Coffee Maker,3,75.0,0.15,$191.25,south
+TXN-0452,"Mar 03, 2023",CUST-1443,60.0,female,Appliances,Microwave Oven,3, 180.0 ,25%,405.00,south
+TXN-0453,01-07-2023,,20.0,  Male  ,Apparel,Running Shoes,4,85.0,0.25,,NORTH
+TXN-0454,2023-04-01,CUST-1028,38.0,FEMALE,home appliances,Refrigerator,3,$850.00,0.15,2167.50,North
+TXN-0455,2023.04.09,CUST-1088,30.0,female,Electronics,Laptop,4,950.0,0.05,"$3,610.00",North
+TXN-0456,2023-03-28,CUST-1041,37.0,MALE,home appliances,Air Conditioner,3,$650.00,10%,"$1,755.00",West
+TXN-0457,02-17-2023,CUST-1328,61.0,Male,  Electronics ,Wireless Headphones,4,120.0,0.25,360.00,South
+TXN-0458,04-22-2023,,29.0,F,ELECTRONICS,Wireless Headphones,3,120.0,,360.00,north
+TXN-0459,03/07/2023,CUST-1011,55.0,female,Electro,Tablet,3, 350.0 ,0.1,$945.00,south
+txn_0460,2023-07-25,CUST-1153,51.0, Female ,apparel,Hat,1,18.0,10%,$16.20,south
+TXN-0461,05/04/2023,CUST-1078,41.0,,Electronics,Laptop,4,950.0,5%,"$3,610.00",East
+TXN-0462,2023-05-25,CUST-1273,65.0,Male,Appliances, Coffee Maker ,5,75.0,10%,$337.50,East
+TXN-0463,"Dec 01, 2023",CUST-1345,44.0,female,Apparel,Jeans,1,60.0,0.1,$54.00,east
+TXN-0464,"Jan 28, 2023",CUST-1309,50.0,F,clothing,Jeans,4,$60.00,10%,$216.00,west
+465,"Nov 11, 2023",CUST-1020,41.0, Female ,HOME APPLIANCES,Vacuum Cleaner,1,$160.00,5%,$152.00,North
+TXN-0466,22/07/2023,1372.0,35.0,F,apparel,Running Shoes,5,$85.00,5%,403.75,east
+TXN-0467,2023-02-10,CUST-1011,64.0,male,Apparel ,Running Shoes,3,85.0,5%,$242.25,NORTH
+TXN-0468,2023-09-14,CUST-1347,-1.0,,electronics,Wireless Headphones,3,$120.00,10%,324.00,  North 
+TXN-0469,11-22-2023,CUST-1285,,Female,apparel,Jeans,2,$60.00,,120.00,west
+txn_0470,2023-02-12,CUST-1149,47.0,,apparel,T-Shirt,1,$25.00,10%,22.50,north
+TXN-0471,22/07/2023,CUST-1091,65.0,FEMALE,electronics,Laptop,3,950.0,0.15,"$2,422.50",West
+TXN-0472,19/08/2023,1424.0,29.0,male,Electro,Wireless Headphones,5,120.0,,$600.00,  North 
+TXN-0473,2023-03-27,1189.0,,female,electronics,Smartwatch,2,200.0,15%,$340.00,  North 
+TXN-0474,04/05/2023,CUST-1056,28.0,male,, Jacket ,4,$110.00,0.15,374.00,west
+TXN-0475,"Jan 13, 2023",1415.0,67.0,,Appliances,Refrigerator,1,$850.00,0.05,$807.50,South
+TXN-0476,09-05-2023,CUST-1037,66.0,  Male  ,Home-Appliances,Air Conditioner,3, 650.0 ,0.1,"$1,755.00",NORTH
+TXN-0477,"Nov 21, 2023",CUST-1079,27.0,female,apparel, Hat ,5,$18.00,25%,$67.50,NORTH
+TXN-0478,2023.09.14,CUST-1248,48.0,female,,Hat,2,18.0,10%,32.40,west
+TXN-0479,27/04/2023,1320.0,22.0,FEMALE,Appliances,Coffee Maker,5,$75.00,0.1,337.50,West
+txn_0480,01-21-2023,1097.0,26.0,Male,electronics,Tablet,5,$350.00,5%,"$1,662.50",west
+TXN-0481,"Apr 21, 2023",1220.0,46.0,MALE,clothing,Hat,4, 18.0 ,25%,54.00,East
+TXN-0482,2023.12.14,CUST-1500,18.0,FEMALE,electronics, Wireless Headphones ,1,120.0,10%,$108.00,south
+TXN-0483,2023-09-29,CUST-1107,28.0,female,apparel,T-Shirt,4,25.0,15%,$85.00,East
+TXN-0484,07-01-2023,CUST-1201,250.0,female,home appliances,Refrigerator,2, 850.0 ,15%,1445.00,South
+TXN-0485,09-15-2023,CUST-1166,55.0,Male,Apparel ,Hat,3, 18.0 ,,$54.00,south
+TXN-0486,2023-08-30,CUST-1375,27.0, Female ,Electronics,Laptop,3,950.0,0.05,2707.50,East
+TXN-0487,17/08/2023,CUST-1235,63.0, Female ,Home Appliances, Coffee Maker ,4, 75.0 ,15%,255.00,East
+TXN-0488,10-03-2023,CUST-1376,53.0,FEMALE,Appliances,Air Conditioner,5,$650.00,,"$3,250.00",NORTH
+TXN-0489,19/06/2023,CUST-1270,45.0,female,Home Appliances,Microwave Oven,1000,$180.00,0.15,153000.00,East
+txn_0490,23/10/2023,CUST-1092,20.0,FEMALE,Home Appliances,Coffee Maker,2,$75.00,0.1,$135.00,West
+TXN-0491,"Jul 12, 2023",CUST-1106,43.0,female,Electronics, Laptop ,5, 950.0 ,25%,"$3,562.50",north
+TXN-0492,"Sep 17, 2023",1233.0,,female,Home Appliances,Air Conditioner,4, 650.0 ,0.2,"$999,999.00",south
+TXN-0493,2023-11-28,CUST-1289,,M,Home Appliances, Refrigerator ,3, 850.0 ,0.25,"$1,912.50",north
+TXN-0494,"Mar 25, 2023",CUST-1191,38.0,,, Air Conditioner ,2,$650.00,0.25,$975.00,South
+495,2023-08-03,CUST-1212,26.0,Male,Electro,Laptop,5,950.0,25%,3562.50,South
+TXN-0496,2023-02-12,CUST-1314,29.0,  Male  ,Home-Appliances,Microwave Oven,3,$180.00,0.1,486.00,east
+TXN-0497,25/01/2023,1324.0,,M,Home Appliances,Microwave Oven,5,180.0,20%,720.00,East
+TXN-0498,04-06-2023,CUST-1281,39.0,  Male  ,HOME APPLIANCES,Coffee Maker,1, 75.0 ,15%,63.75,north
+TXN-0499,"Sep 16, 2023",CUST-1261,32.0,MALE,HOME APPLIANCES,Vacuum Cleaner,5, 160.0 ,25%,600.00,  North 
+,2023.03.19,CUST-1025,36.0,FEMALE,Electro,Smartwatch,1,200.0,0.25,$150.00,West
+TXN-0501,24/03/2023,CUST-1214,40.0,  Male  ,Home-Appliances, Vacuum Cleaner ,2,$160.00,15%,$272.00,  North 
+TXN-0502,"Apr 29, 2023",1380.0,66.0,Female,Apparel,Jacket,4,$110.00,0.2,352.00,  North 
+TXN-0503,2023-07-05,CUST-1221,67.0,  Male  ,clothing,Hat,3,$18.00,0.1,$48.60,West
+TXN-0504,"Nov 07, 2023",CUST-1341,55.0,male,Apparel,Running Shoes,5,$85.00,0.15,361.25,North
+TXN-0505,"Nov 18, 2023",1290.0,39.0,female,Apparel ,Jeans,3, 60.0 ,15%,153.00,South
+TXN-0506,10-08-2023,CUST-1399,23.0, Female ,apparel,Running Shoes,1,$85.00,0.1,$76.50,East
+TXN-0507,13/08/2023,CUST-1057,50.0,FEMALE,Appliances,Air Conditioner,2,650.0,15%,"$1,105.00",east
+TXN-0508,2023.05.31,CUST-1115,53.0,  Male  ,,Laptop,2, 950.0 ,0.05,1805.00,  North 
+TXN-0509,2023.07.31,CUST-1454,34.0,Female,ELECTRONICS,Smartwatch,2,$200.00,10%,360.00,  North 
+txn_0510,2023.02.19,CUST-1053,64.0,FEMALE,electronics,Tablet,5, 350.0 ,0.05,"$1,662.50",NORTH
+TXN-0511,2023-12-16,CUST-1129,63.0,female,electronics,Laptop,5,$950.00,0.25,3562.50,East
+TXN-0512,2023-01-04,CUST-1061,22.0,M,home appliances,Vacuum Cleaner,2,160.0,0.05,$304.00,east
+TXN-0513,23/12/2023,CUST-1159,34.0,M,apparel,Jeans,3,$60.00,25%,$135.00,North
+TXN-0514,01-07-2023,1463.0,22.0,MALE,Apparel , Running Shoes ,2,85.0,0.1,153.00,west
+TXN-0515,03-03-2023,1349.0,24.0, Female ,Appliances,Coffee Maker,5,75.0,5%,356.25,South
+TXN-0516,07-26-2023,CUST-1245,63.0, Female ,Appliances, Air Conditioner ,5, 650.0 ,10%,"$2,925.00",east
+TXN-0517,2023-08-11,CUST-1164,37.0,  Male  ,Apparel,Jeans,3,60.0,0.15,$153.00,South
+TXN-0518,2023-10-03,CUST-1268,61.0,MALE,apparel,T-Shirt,2,25.0,,$50.00,south
+TXN-0519,05-04-2023,CUST-1423,43.0,,electronics,Smartphone,5, 550.0 ,15%,"$999,999.00",east
+txn_0520,"May 23, 2023",1354.0,46.0,MALE,Apparel, Jeans ,2,$60.00,20%,$96.00,north
+TXN-0521,2023.04.14,CUST-1265,24.0,Male,apparel, Jeans ,4, 60.0 ,0.05,228.00,East
+TXN-0522,19/10/2023,CUST-1471,59.0,female,ELECTRONICS,Smartphone,3,550.0,,1650.00,NORTH
+TXN-0523,2023-06-12,CUST-1273,,Female,apparel,Running Shoes,500,85.0,0.1,"$38,250.00",West
+TXN-0524,"Oct 20, 2023",CUST-1230,49.0,Female,Home-Appliances,Coffee Maker,3,$75.00,0.2,$180.00,south
+525,"Jan 22, 2023",CUST-1116,58.0,female,Electro,Tablet,4,$350.00,25%,"$1,050.00",  North 
+TXN-0526,"Aug 26, 2023",CUST-1201,59.0, Female ,apparel,T-Shirt,4,25.0,,$100.00,  North 
+TXN-0527,"Mar 21, 2023",CUST-1077,65.0,F,Appliances,Air Conditioner,1,$650.00,,650.00,East
+TXN-0528,2023-07-02,CUST-1430,38.0,F,home appliances,Coffee Maker,2,$75.00,20%,120.00,South
+TXN-0529,"Dec 06, 2023",1450.0,28.0, Female ,ELECTRONICS,Laptop,1,950.0,0.05,$902.50,east
+txn_0530,2023-03-18,CUST-1149,23.0,F,,Coffee Maker,3,$75.00,5%,$213.75,south
+TXN-0531,08-18-2023,,47.0,Female,electronics,Wireless Headphones,5,$120.00,20%,$480.00,East
+TXN-0532,"Sep 20, 2023",CUST-1482,30.0,  Male  ,Home-Appliances,Air Conditioner,3, 650.0 ,5%,1852.50,South
+TXN-0533,2023-02-14,CUST-1174,27.0,F,HOME APPLIANCES,Air Conditioner,2, 650.0 ,,,South
+TXN-0534,2023-01-26,CUST-1098,49.0,M,  Electronics ,Smartwatch,1, 200.0 ,0.25,$150.00,NORTH
+TXN-0535,14/06/2023,CUST-1303,58.0,female,HOME APPLIANCES,Vacuum Cleaner,3,$160.00,,$480.00,east
+TXN-0536,2023-12-12,CUST-1345,41.0, Female ,Electronics,Laptop,3,950.0,0.15,"$2,422.50",East
+TXN-0537,08-27-2023,CUST-1497,47.0,M,Apparel ,Jeans,3, 60.0 ,0.2,144.00,NORTH
+TXN-0538,"Feb 18, 2023",CUST-1101,,  Male  ,  Electronics ,Smartwatch,4, 200.0 ,5%,760.00,  North 
+TXN-0539,2023.03.14,CUST-1213,58.0,  Male  ,Electro,Wireless Headphones,3,120.0,20%,$288.00,East
+txn_0540,2023-04-30,CUST-1402,68.0,MALE,HOME APPLIANCES,Refrigerator,5, 850.0 ,5%,"$4,037.50",East
+TXN-0541,"Sep 28, 2023",CUST-1490,42.0,  Male  ,ELECTRONICS,Laptop,1,950.0,0.15,807.50,South
+TXN-0542,2023.11.27,CUST-1031,50.0,female,Home Appliances,Vacuum Cleaner,1, 160.0 ,10%,$144.00,East
+TXN-0543,05-21-2023,CUST-1145,19.0,Female,ELECTRONICS, Laptop ,1, 950.0 ,0.05,$902.50,west
+TXN-0544,2023-03-09,1052.0,33.0,Female,ELECTRONICS, Smartphone ,4,550.0,0.1,"$1,980.00",south
+TXN-0545,2023-05-03,1329.0,20.0,,electronics,Smartwatch,4, 200.0 ,20%,$640.00,South
+TXN-0546,19/01/2023,1359.0,50.0,M,apparel,Hat,3,$18.00,0.1,48.60,east
+TXN-0547,"Nov 30, 2023",,50.0,MALE,Electronics,Laptop,2,950.0,0.1,"$1,710.00",South
+TXN-0548,2023.05.10,,,Female,Apparel ,Hat,2,18.0,10%,,North
+TXN-0549,01-26-2023,CUST-1195,24.0,MALE,Apparel ,Hat,1,$18.00,10%,16.20,South
+,2023-11-22,CUST-1477,-5.0,F,  Electronics ,Laptop,5, 950.0 ,,,West
+TXN-0551,27/08/2023,CUST-1022,35.0,F,APPAREL, Jeans ,2,60.0,,120.00,West
+TXN-0552,2023-04-29,,47.0,FEMALE,HOME APPLIANCES,Air Conditioner,3, 650.0 ,15%,1657.50,east
+TXN-0553,2023.08.10,1473.0,66.0,M,APPAREL,T-Shirt,5,25.0,25%,93.75,north
+TXN-0554,2023.08.03,CUST-1294,,M,HOME APPLIANCES,Vacuum Cleaner,3,$160.00,20%,384.00,north
+555,"Nov 24, 2023",CUST-1385,-5.0,male,ELECTRONICS,Smartwatch,5, 200.0 ,,1000.00,north
+TXN-0556,2023-05-10,CUST-1206,,Female,electronics,Laptop,5,950.0,15%,"$4,037.50",west
+TXN-0557,2023-02-20,CUST-1485,19.0,F,Home Appliances,Air Conditioner,1, 650.0 ,5%,$617.50,  North 
+TXN-0558,2023-02-18,CUST-1399,,male,Apparel ,Jeans,5,$60.00,25%,$225.00,south
+TXN-0559,2023-06-19,CUST-1039,18.0,M,Apparel,Hat,5,$18.00,5%,85.50,  North 
+txn_0560,08-13-2023,CUST-1362,58.0,female,ELECTRONICS,Smartphone,1, 550.0 ,0.1,$495.00,  North 
+TXN-0561,"Dec 07, 2023",CUST-1285,68.0, Female ,  Electronics , Tablet ,4,$350.00,0.05,"$1,330.00",NORTH
+TXN-0562,05/05/2023,CUST-1245,53.0,FEMALE,Apparel, T-Shirt ,1, 25.0 ,0.2,$20.00,North
+TXN-0563,08-10-2023,1343.0,46.0,MALE,home appliances,Air Conditioner,4, 650.0 ,15%,"$2,210.00",west
+TXN-0564,27/12/2023,1142.0,39.0,FEMALE,ELECTRONICS,Laptop,5,950.0,25%,3562.50,west
+TXN-0565,2023-11-12,CUST-1138,32.0,Female,clothing, Running Shoes ,3, 85.0 ,0.1,229.50,south
+TXN-0566,12-18-2023,CUST-1104,29.0,  Male  ,electronics,Smartwatch,4,$200.00,25%,$600.00,north
+TXN-0567,2023-10-09,CUST-1130,53.0,  Male  ,Apparel , Jeans ,4, 60.0 ,10%,$216.00,north
+TXN-0568,2023.02.25,CUST-1473,20.0, Female ,Electronics,Wireless Headphones,4,$120.00,0.15,$408.00,  North 
+TXN-0569,"Apr 23, 2023",CUST-1488,57.0,  Male  ,Apparel, T-Shirt ,4,25.0,5%,95.00,east
+txn_0570,2023-04-20,CUST-1227,42.0,female,,Jacket,4, 110.0 ,25%,$330.00,north
+TXN-0571,"Dec 24, 2023",CUST-1111,33.0,MALE,Apparel ,Hat,1, 18.0 ,20%,$14.40,east
+TXN-0572,06-28-2023,CUST-1245,55.0, Female ,electronics,Wireless Headphones,2, 120.0 ,5%,$228.00,NORTH
+TXN-0573,12/08/2023,CUST-1266,57.0,M,Home-Appliances,Vacuum Cleaner,2,$160.00,0.15,$272.00,East
+TXN-0574,2023.04.02,CUST-1004,35.0,Male,Home Appliances,Refrigerator,2, 850.0 ,20%,"$1,360.00",  North 
+TXN-0575,"Jan 22, 2023",CUST-1270,43.0,female,Home-Appliances,Air Conditioner,5,650.0,20%,"$2,600.00",north
+TXN-0576,2023-07-08,CUST-1192,49.0,Male,apparel,Hat,2,$18.00,0.05,$34.20,West
+TXN-0577,15/04/2023,1485.0,24.0,Male,Apparel ,T-Shirt,3,25.0,20%,60.00,North
+TXN-0578,2023-03-16,1260.0,19.0,Female,Electro,Laptop,5,950.0,25%,3562.50,north
+TXN-0579,2023-07-13,CUST-1325,30.0,female,electronics, Tablet ,2,$350.00,10%,$630.00,north
+txn_0580,2023-01-20,1239.0,61.0,male,ELECTRONICS,Tablet,3,350.0,0.15,892.50,south
+TXN-0581,01/11/2023,1247.0,37.0,female,Appliances,Air Conditioner,2, 650.0 ,0.2,1040.00,east
+TXN-0582,2023.07.24,1083.0,60.0,Female,Home Appliances,Refrigerator,4,$850.00,15%,2890.00,  North 
+TXN-0583,27/07/2023,CUST-1084,55.0,male,Electronics,Smartwatch,0,200.0,0.1,"$999,999.00",NORTH
+TXN-0584,03-10-2023,CUST-1358,20.0,  Male  ,Electronics,Smartphone,1,$550.00,0.2,$440.00,west
+585,10/11/2023,CUST-1133,50.0, Female ,ELECTRONICS, Laptop ,4,$950.00,0.15,3230.00,south
+TXN-0586,17/06/2023,CUST-1018,25.0,F,Home Appliances,Microwave Oven,2, 180.0 ,0.25,270.00,North
+TXN-0587,22/03/2023,1430.0,29.0,F,Apparel ,T-Shirt,3,25.0,0.25,$56.25,south
+TXN-0588,02-17-2023,CUST-1122,35.0,M,Apparel,Jeans,3,$60.00,25%,135.00,west
+TXN-0589,2023.09.29,CUST-1313,64.0,F,  Electronics ,Wireless Headphones,1,$120.00,5%,114.00,  North 
+txn_0590,2023.04.29,CUST-1456,32.0, Female ,APPAREL, Hat ,4,$18.00,,72.00,west
+TXN-0591,2023-01-09,CUST-1156,49.0,MALE,clothing,Jeans,4,$60.00,10%,$216.00,West
+TXN-0592,2023-02-20,CUST-1149,45.0,M,ELECTRONICS,Smartphone,1,$550.00,0.05,522.50,south
+TXN-0593,"Feb 28, 2023",CUST-1427,25.0, Female ,Electronics,Tablet,2,$350.00,,700.00,north
+TXN-0594,03-25-2023,CUST-1273,66.0,Male,Electro,Laptop,4,$950.00,0.25,"$2,850.00",West
+TXN-0595,08-23-2023,CUST-1021,, Female ,APPAREL,Running Shoes,3,$85.00,0.25,$191.25,west
+TXN-0596,2023.06.24,CUST-1326,45.0,male,APPAREL,Running Shoes,4,$85.00,0.05,323.00,east
+TXN-0597,01-14-2023,1070.0,24.0,male,ELECTRONICS,Smartphone,5,$550.00,0.25,2062.50,  North 
+TXN-0598,12-20-2023,CUST-1051,20.0,female,HOME APPLIANCES,Vacuum Cleaner,5,0.0,,$0.00,NORTH
+TXN-0599,15/10/2023,CUST-1332,24.0,Male,apparel, Hat ,5,18.0,0.25,67.50,North
+,2023-99-99,CUST-1176,44.0,  Male  ,clothing,Jeans,5,60.0,0.15,255.00,South
+TXN-0601,21/01/2023,CUST-1350,35.0, Female ,,Tablet,4,$350.00,0.05,1330.00,south
+TXN-0602,2023-12-06,CUST-1096,60.0,F,Apparel , Jacket ,-1,110.0,25%,$0.00,south
+TXN-0603,2023-08-07,CUST-1033,59.0,MALE,ELECTRONICS,Tablet,4, 350.0 ,20%,1120.00,NORTH
+TXN-0604,05-18-2023,CUST-1139,37.0,Male,Electronics,Laptop,5,950.0,0.2,"$999,999.00",North
+TXN-0605,2023.12.20,CUST-1246,37.0,female,APPAREL,T-Shirt,5,$25.00,25%,$93.75,West
+TXN-0606,05-04-2023,CUST-1287,, Female ,home appliances,Air Conditioner,5,$650.00,25%,"$2,437.50",north
+TXN-0607,2023.05.12,CUST-1329,31.0,MALE,Electronics,Smartphone,2,550.0,0.05,1045.00,East
+TXN-0608,2023.02.15,CUST-1000,40.0,FEMALE,Electronics,Laptop,3, 950.0 ,,"$2,850.00",south
+TXN-0609,"Feb 01, 2023",1060.0,41.0,  Male  ,Apparel , Jacket ,4,$110.00,,$440.00,north
+txn_0610,2023-03-22,1117.0,63.0,FEMALE,Appliances,Air Conditioner,5, 650.0 ,0.25,"$2,437.50",West
+TXN-0611,2023.06.11,CUST-1395,36.0,FEMALE,Electronics,Wireless Headphones,1,120.0,20%,96.00,North
+TXN-0612,03/04/2023,CUST-1025,22.0,FEMALE,clothing,Running Shoes,2,$85.00,10%,$153.00,NORTH
+TXN-0613,"Aug 15, 2023",CUST-1377,61.0,Female,,Hat,1, 18.0 ,25%,13.50,West
+TXN-0614,10-03-2023,CUST-1495,40.0,male,Appliances,Air Conditioner,1,$650.00,25%,$487.50,NORTH
+615,2023.05.28,CUST-1240,,Male,, Vacuum Cleaner ,4,$160.00,25%,$480.00,east
+TXN-0616,18/05/2023,CUST-1025,68.0,Male,Electronics,Tablet,4,350.0,0.05,1330.00,west
+TXN-0617,2023-03-06,1062.0,51.0,FEMALE,Electronics,Tablet,2,350.0,10%,$630.00,south
+TXN-0618,2023-03-21,CUST-1347,54.0,  Male  ,electronics, Smartwatch ,2,200.0,0.15,$340.00,east
+TXN-0619,20/11/2023,CUST-1387,29.0,MALE,ELECTRONICS,Wireless Headphones,1, 120.0 ,0.15,102.00,North
+txn_0620,2023-04-26,CUST-1256,35.0,M,Home Appliances,Air Conditioner,1,$650.00,10%,585.00,south
+TXN-0621,2023-06-11,CUST-1072,63.0,FEMALE,Apparel,Hat,5,18.0,0.15,$76.50,north
+TXN-0622,2023.11.10,CUST-1199,44.0,FEMALE,Electronics,Laptop,1,$950.00,25%,$712.50,east
+TXN-0623,2023-08-30,CUST-1421,64.0,Male,apparel,T-Shirt,1,25.0,25%,$18.75,West
+TXN-0624,14/01/2023,CUST-1087,31.0,FEMALE,apparel,T-Shirt,1,$25.00,15%,$21.25,East
+TXN-0625,01-11-2023,CUST-1219,20.0,male,home appliances,Microwave Oven,2,$180.00,15%,306.00,North
+TXN-0626,"Mar 20, 2023",CUST-1108,31.0,Female,Apparel ,Jeans,4,60.0,0.1,$216.00,North
+TXN-0627,2023.05.04,,30.0,MALE,  Electronics ,Laptop,2,$950.00,5%,"$1,805.00",North
+TXN-0628,2023.07.08,CUST-1146,63.0,  Male  ,apparel,Running Shoes,4, 85.0 ,0.15,289.00,West
+TXN-0629,25/09/2023,CUST-1196,27.0,male,  Electronics ,Laptop,2, 950.0 ,10%,"$1,710.00",west
+txn_0630,2023-07-28,,58.0,female,Electronics,Smartphone,5,550.0,0.25,2062.50,west
+TXN-0631,2023-01-09,CUST-1454,62.0,female,Appliances,Air Conditioner,3,$650.00,0.05,"$1,852.50",north
+TXN-0632,2023.04.21,CUST-1344,67.0,FEMALE,HOME APPLIANCES,Coffee Maker,2,$75.00,0.25,112.50,North
+TXN-0633,"Jan 16, 2023",1341.0,43.0,female,Home Appliances, Vacuum Cleaner ,2,160.0,5%,304.00,south
+TXN-0634,2023.05.31,CUST-1027,58.0, Female ,Electro,Laptop,3,950.0,20%,"$2,280.00",east
+TXN-0635,30/07/2023,CUST-1284,49.0,F,Home Appliances,Air Conditioner,1,$650.00,0.25,$487.50,West
+TXN-0636,02-15-2023,CUST-1103,24.0,male,electronics,Smartwatch,1,$200.00,0.1,180.00,NORTH
+TXN-0637,2023.09.11,CUST-1097,60.0,  Male  ,Apparel,Jacket,1,$110.00,5%,$104.50,south
+TXN-0638,"Feb 22, 2023",CUST-1463,60.0,M,home appliances,Vacuum Cleaner,5,$160.00,0.15,680.00,West
+TXN-0639,"Dec 18, 2023",CUST-1423,33.0,FEMALE,HOME APPLIANCES,Air Conditioner,4,$650.00,0.25,1950.00,north
+txn_0640,2023-09-02,CUST-1120,27.0,Male,Apparel,Jacket,2, 110.0 ,0.2,,East
+TXN-0641,2023-08-18,CUST-1375,29.0, Female ,clothing,Running Shoes,1,85.0,0.25,$63.75,NORTH
+TXN-0642,2023-01-20,CUST-1117,64.0,  Male  ,ELECTRONICS,Tablet,5,350.0,0.2,1400.00,North
+TXN-0643,2023-12-02,CUST-1458,48.0,M,,Refrigerator,5,850.0,25%,3187.50,east
+TXN-0644,12/09/2023,1264.0,65.0,,APPAREL,Running Shoes,0, 85.0 ,,,East
+645,2023-07-19,CUST-1291,,M,Appliances, Air Conditioner ,3, 650.0 ,10%,"$1,755.00",South
+TXN-0646,2023.03.10,CUST-1404,30.0, Female ,HOME APPLIANCES,Microwave Oven,3,180.0,0.1,486.00,east
+TXN-0647,24/04/2023,CUST-1351,50.0,female,Apparel,Hat,4, 18.0 ,0.2,$57.60,south
+TXN-0648,2023-11-16,CUST-1038,48.0,M,,Microwave Oven,3,$180.00,20%,$432.00,East
+TXN-0649,2023-02-24,CUST-1109,51.0,female,ELECTRONICS, Smartwatch ,2, 200.0 ,5%,380.00,north
+,"Oct 30, 2023",CUST-1427,35.0,MALE,Appliances,Refrigerator,2,850.0,20%,1360.00,West
+TXN-0651,08-15-2023,1361.0,65.0,  Male  ,APPAREL,Running Shoes,3, 85.0 ,0.15,216.75,east
+TXN-0652,2023-01-14,1410.0,55.0,MALE,apparel, T-Shirt ,1, 25.0 ,,$25.00,east
+TXN-0653,2023-04-04,CUST-1266,55.0,F,apparel,Running Shoes,3,$85.00,,255.00,NORTH
+TXN-0654,08/07/2023,1111.0,52.0,male,home appliances,Coffee Maker,1, 75.0 ,0.05,$71.25,west
+TXN-0655,2023.06.26,CUST-1265,29.0,Female,APPAREL,Jacket,3,$110.00,5%,313.50,West
+TXN-0656,03/12/2023,CUST-1281,25.0,M,apparel, Jeans ,5,60.0,15%,255.00,South
+TXN-0657,2023-07-30,CUST-1336,37.0,FEMALE,home appliances,Refrigerator,5, 850.0 ,15%,3612.50,West
+TXN-0658,"Mar 24, 2023",CUST-1292,54.0,F,Electronics, Smartwatch ,5,$200.00,5%,950.00,west
+TXN-0659,2023-09-12,CUST-1418,53.0,FEMALE,home appliances, Coffee Maker ,2,$75.00,0.05,$142.50,west
+txn_0660,2023-11-07,CUST-1259,61.0,Female,APPAREL, Jacket ,1,110.0,5%,104.50,north
+TXN-0661,2023.10.21,CUST-1177,31.0, Female ,Home Appliances, Vacuum Cleaner ,5, 160.0 ,0.15,680.00,South
+TXN-0662,"Jan 03, 2023",1351.0,25.0,Male,home appliances, Coffee Maker ,4, 75.0 ,5%,285.00,North
+TXN-0663,2023-11-13,CUST-1338,46.0,MALE,electronics, Laptop ,3,$950.00,0.15,"$2,422.50",north
+TXN-0664,2023.05.26,CUST-1071,54.0,M,ELECTRONICS,Laptop,0,950.0,0.2,0.00,South
+TXN-0665,2023.12.08,CUST-1298,-5.0,F,HOME APPLIANCES, Refrigerator ,5,$850.00,0.1,3825.00,NORTH
+TXN-0666,2023-03-14,CUST-1082,35.0, Female ,Electro,Smartphone,5,$550.00,0.15,"$2,337.50",NORTH
+TXN-0667,2023-12-17,,20.0,male,,Vacuum Cleaner,5, 160.0 ,0.15,680.00,East
+TXN-0668,26/05/2023,CUST-1430,34.0,Male,clothing, T-Shirt ,1,$25.00,0.2,20.00,north
+TXN-0669,2023.03.24,,,Female,apparel,Jacket,3, 110.0 ,,$330.00,South
+txn_0670,02-10-2023,CUST-1141,43.0,MALE,,T-Shirt,5,25.0,20%,,South
+TXN-0671,"Apr 13, 2023",CUST-1480,45.0,female,Home Appliances,Microwave Oven,2, 180.0 ,20%,288.00,North
+TXN-0672,2023-02-04,CUST-1341,20.0,,Appliances,Air Conditioner,5,650.0,5%,"$3,087.50",NORTH
+TXN-0673,2023.05.11,CUST-1152,49.0,female,  Electronics ,Smartphone,2, 550.0 ,0.25,$825.00,north
+TXN-0674,04-21-2023,CUST-1292,29.0,female,  Electronics ,Tablet,1, 350.0 ,15%,297.50,North
+675,2023.08.28,CUST-1432,21.0,Male,ELECTRONICS, Smartwatch ,1,200.0,0.25,150.00,north
+TXN-0676,2023-08-16,CUST-1300,50.0,,Electronics,Laptop,3,$950.00,0.15,2422.50,west
+TXN-0677,2023.08.13,CUST-1132,38.0,male,apparel,T-Shirt,5,25.0,0.25,93.75,  North 
+TXN-0678,2023.08.05,CUST-1200,48.0,Male,Appliances,Microwave Oven,1, 180.0 ,,$180.00,south
+TXN-0679,2023.12.20,CUST-1181,55.0,female,Home Appliances,Microwave Oven,3,$180.00,0.15,459.00,NORTH
+txn_0680,16/08/2023,1072.0,55.0,female,  Electronics , Laptop ,2,950.0,0.05,"$1,805.00",west
+TXN-0681,2023-11-05,CUST-1032,25.0,MALE,clothing,Jacket,2,$110.00,0.2,$176.00,south
+TXN-0682,2023-10-12,CUST-1358,,  Male  ,Apparel , T-Shirt ,3,25.0,25%,56.25,north
+TXN-0683,2023-09-22,CUST-1385,52.0,Male,Home-Appliances,Air Conditioner,4,650.0,0.15,2210.00,west
+TXN-0684,2023.11.12,CUST-1357,57.0,  Male  ,Apparel ,Jeans,3,$60.00,5%,171.00,North
+TXN-0685,"Dec 18, 2023",CUST-1475,40.0,F,Home Appliances,Vacuum Cleaner,5,$160.00,0.2,640.00,East
+TXN-0686,"Nov 03, 2023",1304.0,26.0, Female ,Apparel,T-Shirt,3,25.0,20%,$60.00,south
+TXN-0687,"Aug 05, 2023",CUST-1456,,  Male  ,apparel, T-Shirt ,4, 25.0 ,0.2,$80.00,south
+TXN-0688,2023-02-25,CUST-1117,250.0,M,electronics,Smartphone,4,550.0,0.1,"$1,980.00",NORTH
+TXN-0689,02-21-2023,CUST-1417,51.0,Male,,Wireless Headphones,5,$120.00,25%,450.00,East
+txn_0690,01-07-2023,CUST-1209,58.0,male,Apparel,Jacket,2, 110.0 ,0.25,$165.00,East
+TXN-0691,11-22-2023,CUST-1089,53.0,MALE,HOME APPLIANCES,Vacuum Cleaner,1, 160.0 ,0.15,$136.00,north
+TXN-0692,13/03/2023,CUST-1146,65.0,F,  Electronics ,Laptop,4,$950.00,10%,3420.00,east
+TXN-0693,"Mar 28, 2023",1277.0,56.0,MALE,HOME APPLIANCES,Microwave Oven,5, 180.0 ,10%,$810.00,south
+TXN-0694,2023-01-19,CUST-1366,50.0,male,ELECTRONICS,Smartphone,3,550.0,0.25,1237.50,West
+TXN-0695,2023-10-10,CUST-1466,33.0,male,Home-Appliances,Refrigerator,5,850.0,0.25,3187.50,  North 
+TXN-0696,"Jun 06, 2023",1245.0,61.0,female,Electronics,Smartphone,4,$550.00,0.1,"$1,980.00",South
+TXN-0697,2023-10-18,1330.0,43.0,M,  Electronics ,Smartwatch,1, 200.0 ,0.05,"$999,999.00",South
+TXN-0698,2023-01-02,CUST-1222,19.0, Female ,  Electronics ,Tablet,1,$350.00,15%,297.50,west
+TXN-0699,13/06/2023,1261.0,35.0,FEMALE,electronics,Wireless Headphones,3, 120.0 ,5%,$342.00,south
+,"Oct 29, 2023",CUST-1462,60.0,  Male  ,Apparel,T-Shirt,1,25.0,15%,$21.25,  North 
+TXN-0701,2023-11-13,1395.0,44.0,  Male  ,Electro,Wireless Headphones,2, 120.0 ,0.2,$192.00,west
+TXN-0702,"Dec 05, 2023",1015.0,29.0,male,Home-Appliances, Microwave Oven ,1,180.0,0.25,$135.00,north
+TXN-0703,2023.01.03,1037.0,50.0,male,Apparel ,Running Shoes,4,85.0,,340.00,south
+TXN-0704,2023.11.08,1136.0,48.0, Female ,Electronics,Laptop,3,$950.00,0.05,"$2,707.50",North
+705,2023.08.11,CUST-1072,49.0, Female ,,T-Shirt,3,25.0,10%,67.50,west
+TXN-0706,06-17-2023,,51.0,  Male  ,apparel, Hat ,5, 18.0 ,0.05,85.50,North
+TXN-0707,03-01-2023,CUST-1432,60.0,M,Electronics,Laptop,4, 950.0 ,,"$3,800.00",North
+TXN-0708,2023-09-05,CUST-1449,53.0,  Male  ,electronics,Smartphone,5,550.0,15%,2337.50,north
+TXN-0709,"Sep 21, 2023",CUST-1275,64.0,Male,Apparel, Hat ,4,$18.00,15%,$61.20,south
+txn_0710,04/05/2023,1441.0,20.0,F,clothing,Running Shoes,3,85.0,0.15,216.75,south
+TXN-0711,2023-03-12,1417.0,21.0,F,APPAREL, Jeans ,5,60.0,0.15,255.00,south
+TXN-0712,2023.01.15,CUST-1486,67.0,female,Home Appliances, Refrigerator ,4,$850.00,0.1,3060.00,East
+TXN-0713,2023-05-18,CUST-1457,46.0, Female ,Home Appliances, Vacuum Cleaner ,1,$160.00,0.1,144.00,  North 
+TXN-0714,2023.08.14,CUST-1022,66.0,MALE,Electro,Wireless Headphones,5,120.0,5%,570.00,South
+TXN-0715,2023-01-07,1142.0,31.0,FEMALE,ELECTRONICS, Wireless Headphones ,1, 120.0 ,0.1,$108.00,East
+TXN-0716,18/10/2023,,44.0, Female ,Home Appliances,Microwave Oven,5,180.0,0.05,855.00,NORTH
+TXN-0717,22/04/2023,CUST-1297,32.0,,Home-Appliances,Refrigerator,3,-$50.00,5%,$0.00,east
+TXN-0718,"May 27, 2023",CUST-1031,54.0,M,electronics,Tablet,1,350.0,5%,"$999,999.00",west
+TXN-0719,07-31-2023,CUST-1462,46.0,M,Apparel,Running Shoes,4,85.0,25%,$255.00,  North 
+txn_0720,"Oct 31, 2023",CUST-1118,60.0,M,home appliances,Refrigerator,3, 850.0 ,0.05,2422.50,South
+TXN-0721,09/10/2023,CUST-1086,64.0,male,Appliances,Refrigerator,1,850.0,25%,637.50,  North 
+TXN-0722,2023-06-10,CUST-1085,53.0,Male,HOME APPLIANCES,Coffee Maker,5,$75.00,0.25,281.25,west
+TXN-0723,2023-06-19,CUST-1070,28.0,,electronics,Wireless Headphones,2, 120.0 ,,240.00,NORTH
+TXN-0724,2023-09-26,CUST-1489,30.0,M,Home Appliances, Coffee Maker ,3, 75.0 ,20%,180.00,South
+TXN-0725,10/04/2023,CUST-1453,,MALE,,T-Shirt,5,25.0,25%,$93.75,North
+TXN-0726,2023-03-24,CUST-1351,37.0, Female ,,Microwave Oven,2, 180.0 ,0.25,$270.00,  North 
+TXN-0727,"Apr 14, 2023",CUST-1187,44.0,female,Electronics,Laptop,1, 950.0 ,,950.00,south
+TXN-0728,"Jan 19, 2023",CUST-1156,32.0,Female,,Microwave Oven,2,$180.00,5%,342.00,NORTH
+TXN-0729,2023.06.25,CUST-1077,50.0,Male,Home-Appliances,Coffee Maker,1, 75.0 ,0.15,63.75,east
+txn_0730,2023.04.23,CUST-1068,36.0,M,Electronics,Wireless Headphones,2,$120.00,5%,228.00,east
+TXN-0731,07-11-2023,CUST-1372,61.0,Female,Electro,Smartphone,3,550.0,10%,"$1,485.00",south
+TXN-0732,2023.07.17,CUST-1413,35.0,M,APPAREL, Jeans ,1000,60.0,0.05,"$57,000.00",East
+TXN-0733,07-15-2023,CUST-1436,150.0,Female,clothing,Hat,3, 18.0 ,10%,48.60,south
+TXN-0734,12/06/2023,1290.0,47.0,Male,,Air Conditioner,5, 650.0 ,0.15,2762.50,East
+735,2023-04-18,CUST-1221,47.0,F,,Tablet,1, 350.0 ,10%,315.00,east
+TXN-0736,15/06/2023,1142.0,20.0,Female,Home-Appliances,Microwave Oven,3,180.0,,540.00,NORTH
+TXN-0737,06-08-2023,CUST-1099,37.0, Female ,Electronics,Laptop,1,$950.00,,$950.00,NORTH
+TXN-0738,2023-07-20,,58.0,MALE,APPAREL,Running Shoes,2,$85.00,20%,136.00,NORTH
+TXN-0739,"May 28, 2023",CUST-1400,32.0,female,  Electronics ,Smartphone,1,550.0,0.2,$440.00,South
+txn_0740,2023-01-20,CUST-1051,53.0,FEMALE,apparel,Jeans,4,60.0,20%,$192.00,South
+TXN-0741,20/12/2023,CUST-1260,, Female ,electronics,Smartwatch,5,200.0,10%,$900.00,  North 
+TXN-0742,2023-04-19,,58.0,F,apparel, T-Shirt ,3, 25.0 ,5%,71.25,north
+TXN-0743,15/10/2023,,42.0,Male,HOME APPLIANCES,Microwave Oven,4,$180.00,0.15,612.00,NORTH
+TXN-0744,2023-11-17,CUST-1368,67.0,Female,HOME APPLIANCES, Coffee Maker ,4,$75.00,25%,225.00,NORTH
+TXN-0745,"May 10, 2023",CUST-1036,24.0,male,Electronics,Smartphone,4,550.0,20%,"$1,760.00",NORTH
+TXN-0746,09/09/2023,CUST-1394,42.0,Male,APPAREL,Jeans,4, 60.0 ,0.1,216.00,south
+TXN-0747,2023-03-01,CUST-1158,61.0, Female ,electronics,Smartwatch,5,200.0,20%,800.00,south
+TXN-0748,2023-01-04,,43.0,FEMALE,Apparel ,Jacket,4, 110.0 ,0.2,$352.00,East
+TXN-0749,12/01/2023,CUST-1240,42.0, Female ,electronics,Smartphone,5,$550.00,10%,"$2,475.00",North
+,2023-07-08,CUST-1211,33.0,Female,  Electronics ,Tablet,3,$350.00,20%,840.00,south
+TXN-0751,2023-04-24,1459.0,54.0, Female ,Appliances,Refrigerator,3,$850.00,0.15,2167.50,west
+TXN-0752,2023-03-16,CUST-1065,31.0,FEMALE,  Electronics ,Tablet,2,$350.00,25%,525.00,North
+TXN-0753,2023.06.17,CUST-1363,48.0,M,apparel, Jacket ,-1, 110.0 ,0.1,$0.00,East
+TXN-0754,2023-03-11,CUST-1170,51.0,female,  Electronics ,Laptop,1,950.0,25%,712.50,South
+TXN-0755,"Dec 23, 2023",1114.0,21.0,  Male  ,electronics,Wireless Headphones,2,$120.00,15%,$204.00,South
+TXN-0756,2023.08.19,CUST-1345,52.0,Male,HOME APPLIANCES,Microwave Oven,3, 180.0 ,0.05,$513.00,West
+TXN-0757,04-07-2023,CUST-1079,41.0,M,  Electronics ,Wireless Headphones,2,$120.00,10%,216.00,South
+TXN-0758,11/03/2023,CUST-1055,32.0,,Electro,Smartphone,4,$550.00,0.2,1760.00,East
+TXN-0759,01-30-2023,CUST-1040,32.0,FEMALE,Electro, Smartwatch ,2,200.0,0.25,$300.00,West
+txn_0760,N/A,CUST-1029,44.0,  Male  ,Appliances,Refrigerator,4, 850.0 ,0.05,"$3,230.00",south
+TXN-0761,2023-07-17,CUST-1471,48.0,Female,Electronics, Smartphone ,5,$550.00,25%,2062.50,South
+TXN-0762,08/05/2023,CUST-1039,23.0,Male,Apparel ,Jacket,5,110.0,5%,$522.50,North
+TXN-0763,2023.11.19,1497.0,40.0,Female,Home Appliances,Air Conditioner,4, 650.0 ,10%,"$2,340.00",east
+TXN-0764,07-12-2023,CUST-1450,30.0,Male,electronics,Tablet,1,350.0,15%,$297.50,East
+765,2023.12.16,1392.0,61.0,  Male  ,apparel,Hat,5, 18.0 ,20%,$72.00,NORTH
+TXN-0766,"Aug 03, 2023",1414.0,41.0,M,ELECTRONICS, Smartphone ,4,$550.00,25%,1650.00,NORTH
+TXN-0767,2023.07.29,CUST-1488,22.0,  Male  ,Home Appliances,Microwave Oven,2,$180.00,5%,$342.00,NORTH
+TXN-0768,25/11/2023,1424.0,65.0,male,  Electronics , Laptop ,4,$950.00,,"$3,800.00",west
+TXN-0769,01-30-2023,CUST-1428,250.0,FEMALE,Apparel ,Running Shoes,3,85.0,0.15,216.75,  North 
+txn_0770,03-08-2023,1072.0,27.0,MALE,APPAREL,Jeans,3, 60.0 ,0.25,135.00,north
+TXN-0771,11/11/2023,CUST-1312,54.0,male,clothing,Jacket,1,110.0,0.1,$99.00,NORTH
+TXN-0772,2023.06.22,CUST-1001,29.0,FEMALE,clothing,Running Shoes,2,85.0,0.25,127.50,east
+TXN-0773,"Aug 23, 2023",CUST-1090,31.0,FEMALE,Electro,Tablet,4,350.0,0.25,"$1,050.00",West
+TXN-0774,2023.05.07,CUST-1000,60.0,M,electronics,Laptop,5,$950.00,0.2,"$3,800.00",North
+TXN-0775,"Sep 04, 2023",1386.0,55.0,FEMALE,APPAREL,Jeans,5,60.0,5%,285.00,South
+TXN-0776,12-21-2023,CUST-1345,,M,Apparel ,Running Shoes,4, 85.0 ,10%,306.00,NORTH
+TXN-0777,2023.06.16,CUST-1325,,  Male  ,clothing,T-Shirt,4,25.0,15%,$85.00,west
+TXN-0778,2023.10.11,CUST-1254,57.0,  Male  ,Electronics,Smartphone,5,$550.00,0.15,"$2,337.50",  North 
+TXN-0779,"Oct 01, 2023",CUST-1014,68.0,FEMALE,Apparel,Running Shoes,1,$85.00,20%,$68.00,west
+txn_0780,05-19-2023,1113.0,, Female ,Electronics,Tablet,5,350.0,0.05,"$1,662.50",West
+TXN-0781,2023-07-09,,,female,Home-Appliances, Air Conditioner ,3,$650.00,15%,1657.50,West
+TXN-0782,"Dec 07, 2023",1389.0,19.0,FEMALE,Apparel ,Running Shoes,2, 85.0 ,15%,144.50,North
+TXN-0783,2023-09-05,CUST-1462,41.0,Male,apparel, Jeans ,4,$60.00,10%,$216.00,South
+TXN-0784,2023-11-22,CUST-1132,42.0,  Male  ,ELECTRONICS,Smartwatch,2, 200.0 ,5%,$380.00,East
+TXN-0785,2023-02-22,CUST-1028,,M,Electronics,Smartwatch,4, 200.0 ,20%,640.00,South
+TXN-0786,06-27-2023,CUST-1166,37.0,Female,APPAREL, Hat ,4,$18.00,,72.00,North
+TXN-0787,2023-06-07,CUST-1137,58.0,M,clothing,T-Shirt,4,25.0,20%,$80.00,East
+TXN-0788,2023.09.08,,44.0,male,electronics,Smartwatch,2,$200.00,0.25,$300.00,NORTH
+TXN-0789,06/10/2023,,38.0,Female,Apparel ,Jacket,2,110.0,25%,$165.00,West
+txn_0790,"May 30, 2023",CUST-1226,55.0, Female ,ELECTRONICS,Smartwatch,5,200.0,15%,$850.00,North
+TXN-0791,2023.01.25,CUST-1295,,Female,Electronics,Laptop,3,$950.00,0.25,2137.50,  North 
+TXN-0792,08-23-2023,CUST-1448,49.0, Female ,Appliances, Refrigerator ,5,$850.00,25%,3187.50,north
+TXN-0793,2023.03.12,CUST-1464,47.0,,Appliances,Vacuum Cleaner,3,160.0,0.2,384.00,north
+TXN-0794,04/04/2023,CUST-1257,52.0,male,  Electronics ,Laptop,3,$950.00,,2850.00,  North 
+795,"Mar 27, 2023",1161.0,45.0,MALE,HOME APPLIANCES, Microwave Oven ,5,$180.00,0.05,855.00,North
+TXN-0796,2023.03.04,CUST-1005,26.0,F,HOME APPLIANCES,Refrigerator,5,850.0,0.25,3187.50,south
+TXN-0797,"Aug 25, 2023",CUST-1356,31.0,female,Electro, Smartwatch ,5,$200.00,25%,"$999,999.00",East
+TXN-0798,"Jun 14, 2023",CUST-1149,59.0,female,apparel,Running Shoes,1,$85.00,25%,$63.75,West
+TXN-0799,22/08/2023,CUST-1392,39.0,  Male  ,Electronics,Tablet,4,350.0,0.15,1190.00,south
+,05-16-2023,1342.0,250.0,Male,Apparel ,Jeans,5,$60.00,15%,255.00,South
+TXN-0801,"Jan 12, 2023",1253.0,60.0,Male,home appliances,Coffee Maker,5,75.0,15%,318.75,west
+TXN-0802,"Aug 21, 2023",CUST-1100,,FEMALE,Home Appliances,Refrigerator,3, 850.0 ,0.1,2295.00,South
+TXN-0803,2023-08-29,CUST-1113,36.0,F,,Running Shoes,500,$85.00,0.1,"$38,250.00",west
+TXN-0804,07-22-2023,CUST-1020,28.0,MALE,  Electronics , Tablet ,2,0.0,,0.00,south
+TXN-0805,17/10/2023,CUST-1122,21.0, Female ,electronics, Laptop ,1,950.0,0.15,$807.50,north
+TXN-0806,02/06/2023,1426.0,31.0,male,clothing, Jacket ,4,$110.00,,"$999,999.00",west
+TXN-0807,2023-08-18,CUST-1077,39.0,MALE,Apparel ,Jeans,4, 60.0 ,25%,$180.00,  North 
+TXN-0808,"Jan 14, 2023",CUST-1097,46.0,male,  Electronics ,Smartphone,4,550.0,0.05,2090.00,south
+TXN-0809,2023-07-28,1085.0,22.0,Male,HOME APPLIANCES,Refrigerator,2,$850.00,10%,"$1,530.00",East
+txn_0810,04-20-2023,1375.0,19.0,  Male  ,Electro,Tablet,5,350.0,15%,"$1,487.50",West
+TXN-0811,2023.06.03,,40.0,Female,APPAREL, Hat ,5,$18.00,0.25,67.50,east
+TXN-0812,2023-12-26,CUST-1211,68.0,FEMALE,home appliances,Air Conditioner,1,$650.00,0.05,617.50,north
+TXN-0813,2023-02-26,CUST-1290,20.0, Female ,clothing,Hat,2,18.0,0.15,$30.60,West
+TXN-0814,2023-09-16,CUST-1210,27.0,Male,electronics, Smartphone ,2,$550.00,0.1,"$999,999.00",North
+TXN-0815,"Oct 08, 2023",CUST-1365,55.0,Male,,Smartphone,1,$550.00,0.05,522.50,NORTH
+TXN-0816,2023-05-01,CUST-1379,67.0,F,Appliances, Vacuum Cleaner ,0,160.0,,$0.00,south
+TXN-0817,2023-05-06,,55.0,MALE,Apparel,Jeans,4,$60.00,15%,204.00,East
+TXN-0818,2023.03.14,CUST-1498,,Male,apparel,Running Shoes,1,$85.00,25%,63.75,east
+TXN-0819,2023-03-17,CUST-1136,26.0,FEMALE,clothing, Jacket ,4,110.0,20%,$352.00,south
+txn_0820,"Jun 16, 2023",CUST-1326,28.0,MALE,Home-Appliances, Refrigerator ,1, 850.0 ,0.05,807.50,East
+TXN-0821,10-17-2023,CUST-1058,56.0,Male,Apparel , T-Shirt ,5,$25.00,,$125.00,NORTH
+TXN-0822,2023-11-18,1335.0,63.0,F,Apparel ,Hat,3,18.0,0.1,$48.60,south
+TXN-0823,2023.01.13,CUST-1187,58.0,  Male  ,apparel,Jeans,1, 60.0 ,0.05,57.00,east
+TXN-0824,"Jan 02, 2023",CUST-1198,68.0,M,APPAREL,Jacket,4,110.0,0.15,$374.00,NORTH
+825,31/01/2023,1499.0,37.0,F,apparel, Hat ,2,$18.00,0.2,$28.80,east
+TXN-0826,2023-05-10,CUST-1131,43.0,  Male  ,Home Appliances,Vacuum Cleaner,4, 160.0 ,10%,$576.00,  North 
+TXN-0827,2023.05.28,CUST-1270,44.0,female,Home Appliances,Air Conditioner,1,$650.00,15%,552.50,South
+TXN-0828,2023-01-16,CUST-1380,33.0,male,Appliances,Vacuum Cleaner,1,$160.00,0.25,$120.00,north
+TXN-0829,2023-05-22,CUST-1243,66.0,male,Home-Appliances,Air Conditioner,1,650.0,0.15,$552.50,west
+txn_0830,2023-02-20,CUST-1238,41.0,male,Electro,Wireless Headphones,1,120.0,0.2,"$999,999.00",NORTH
+TXN-0831,2023-08-28,CUST-1484,53.0,male,Home-Appliances,Air Conditioner,5,650.0,0.2,2600.00,North
+TXN-0832,2023-08-03,1408.0,150.0,F,clothing, Jacket ,3, 110.0 ,10%,$297.00,east
+TXN-0833,"Dec 09, 2023",CUST-1132,42.0,Female,clothing,Hat,3,18.0,,$54.00,south
+TXN-0834,2023-03-16,,41.0,,Appliances,Vacuum Cleaner,2,160.0,25%,$240.00,North
+TXN-0835,2023-06-04,CUST-1038,32.0,,Electronics,Smartphone,5,550.0,0.1,"$2,475.00",west
+TXN-0836,02-17-2023,,49.0,M,  Electronics ,Laptop,4,$950.00,5%,3610.00,East
+TXN-0837,20/02/2023,CUST-1254,34.0,Male,Appliances,Air Conditioner,2,$650.00,0.15,"$1,105.00",East
+TXN-0838,2023-08-15,1256.0,34.0,F,electronics,Laptop,4,950.0,20%,3040.00,West
+TXN-0839,2023-04-03,CUST-1132,51.0,M,home appliances,Microwave Oven,4,$180.00,,$720.00,West
+txn_0840,16/04/2023,CUST-1205,40.0,MALE,Electro,Laptop,4,950.0,0.25,"$2,850.00",East
+TXN-0841,09/07/2023,CUST-1013,56.0,F,Home-Appliances,Air Conditioner,4,$650.00,,"$2,600.00",West
+TXN-0842,2023.08.31,CUST-1173,22.0,Male,  Electronics ,Smartphone,4,$550.00,10%,"$1,980.00",north
+TXN-0843,02-08-2023,CUST-1310,45.0,  Male  ,  Electronics ,Laptop,4,$950.00,0.05,,  North 
+TXN-0844,2023-04-02,CUST-1492,18.0,  Male  ,Home-Appliances,Vacuum Cleaner,5,$160.00,0.05,760.00,West
+TXN-0845,2023-01-21,,,MALE,Home-Appliances, Coffee Maker ,2,75.0,20%,120.00,  North 
+TXN-0846,07-23-2023,CUST-1179,53.0, Female ,  Electronics ,Smartphone,4, 550.0 ,20%,1760.00,east
+TXN-0847,2023-03-06,CUST-1169,28.0,  Male  ,electronics,Smartphone,5, 550.0 ,20%,"$999,999.00",West
+TXN-0848,31/07/2023,,,male,apparel,T-Shirt,3,25.0,5%,71.25,NORTH
+TXN-0849,22/03/2023,CUST-1490,20.0,Female,HOME APPLIANCES,Coffee Maker,2,$75.00,5%,142.50,west
+,22/12/2023,CUST-1125,33.0,M,electronics, Wireless Headphones ,5,$120.00,0.15,$510.00,East
+TXN-0851,11-03-2023,CUST-1314,27.0,F,Home Appliances,Air Conditioner,2,$650.00,0.15,"$1,105.00",north
+TXN-0852,"Mar 09, 2023",CUST-1051,43.0,female,APPAREL,Hat,4,$18.00,0.05,68.40,North
+TXN-0853,20/10/2023,CUST-1462,35.0,M,Electronics,Smartphone,1,$550.00,10%,495.00,North
+TXN-0854,2023.08.15,1238.0,62.0,M,Apparel,Running Shoes,3, 85.0 ,5%,$242.25,east
+855,22/10/2023,CUST-1301,40.0, Female ,home appliances,Vacuum Cleaner,4, 160.0 ,0.15,544.00,East
+TXN-0856,"Aug 12, 2023",CUST-1009,48.0, Female ,HOME APPLIANCES,Refrigerator,3,$850.00,0.1,"$2,295.00",north
+TXN-0857,2023-04-04,CUST-1207,37.0,FEMALE,clothing,Running Shoes,1,$85.00,15%,$72.25,North
+TXN-0858,"Dec 26, 2023",CUST-1227,,Male,APPAREL,Hat,4,$18.00,5%,68.40,north
+TXN-0859,04-23-2023,CUST-1090,47.0, Female ,Apparel,Hat,5, 18.0 ,20%,72.00,West
+txn_0860,03-08-2023,CUST-1480,150.0,M,Apparel , Jeans ,2,$60.00,0.1,108.00,south
+TXN-0861,02-17-2023,CUST-1050,36.0,MALE,Electro,Wireless Headphones,4,120.0,0.1,432.00,south
+TXN-0862,2023-08-08,CUST-1051,23.0,F,Appliances, Coffee Maker ,2,$75.00,15%,$127.50,East
+TXN-0863,"Apr 11, 2023",CUST-1389,36.0,Female,Home-Appliances,Air Conditioner,1, 650.0 ,15%,"$999,999.00",North
+TXN-0864,2023.06.23,CUST-1160,29.0,  Male  ,clothing,Hat,2,$18.00,5%,34.20,south
+TXN-0865,2023.08.22,CUST-1026,52.0,Female,ELECTRONICS,Smartwatch,4,200.0,5%,760.00,west
+TXN-0866,2023-11-08,1243.0,25.0,,HOME APPLIANCES, Refrigerator ,5,$850.00,0.2,"$3,400.00",South
+TXN-0867,2023.05.17,CUST-1202,31.0,,Apparel,Jacket,4,110.0,0.05,418.00,east
+TXN-0868,04-22-2023,CUST-1023,54.0,  Male  ,apparel,T-Shirt,5, 25.0 ,0.15,106.25,NORTH
+TXN-0869,"Mar 02, 2023",CUST-1287,22.0,female,Home-Appliances, Vacuum Cleaner ,1, 160.0 ,5%,$152.00,west
+txn_0870,2023-11-12,CUST-1476,27.0,Female,home appliances,Vacuum Cleaner,1, 160.0 ,0.2,128.00,west
+TXN-0871,2023-12-07,CUST-1167,56.0,male,Appliances,Microwave Oven,4,$180.00,25%,"$999,999.00",south
+TXN-0872,09-29-2023,CUST-1380,33.0,M,Apparel,Hat,5,$18.00,0.15,76.50,  North 
+TXN-0873,"Jan 27, 2023",CUST-1395,27.0,FEMALE,Home Appliances, Vacuum Cleaner ,4, 160.0 ,5%,608.00,North
+TXN-0874,"Nov 24, 2023",CUST-1084,29.0,  Male  ,clothing,Running Shoes,1,85.0,25%,$63.75,east
+TXN-0875,2023.01.02,CUST-1452,28.0,female,Apparel,Running Shoes,2,85.0,20%,$136.00,East
+TXN-0876,2023-11-01,CUST-1171,49.0,male,HOME APPLIANCES,Air Conditioner,2,$650.00,0.05,"$1,235.00",East
+TXN-0877,2023.01.05,CUST-1207,21.0,female,Electro, Smartwatch ,4,200.0,15%,680.00,north
+TXN-0878,09-30-2023,CUST-1008,62.0,FEMALE,Home Appliances,Refrigerator,4,$850.00,20%,"$2,720.00",North
+TXN-0879,"Jul 26, 2023",CUST-1270,26.0,  Male  ,Apparel ,Jeans,2,$60.00,0.25,90.00,NORTH
+txn_0880,"Jul 16, 2023",CUST-1476,30.0,female,  Electronics ,Smartphone,2,550.0,10%,990.00,east
+TXN-0881,2023-09-21,CUST-1190,37.0,  Male  ,Apparel,Running Shoes,5,$85.00,0.25,$318.75,NORTH
+TXN-0882,2023-01-06,CUST-1025,47.0,M,Apparel,Jeans,2,60.0,10%,"$999,999.00",west
+TXN-0883,10-22-2023,CUST-1278,57.0,Female,Home-Appliances,Air Conditioner,2,$650.00,10%,"$1,170.00",  North 
+TXN-0884,"Sep 06, 2023",CUST-1318,57.0, Female ,Appliances,Coffee Maker,3,$75.00,,225.00,North
+885,"Nov 12, 2023",CUST-1292,66.0,  Male  ,Apparel,Jacket,3,$110.00,0.05,313.50,north
+TXN-0886,"Jan 27, 2023",CUST-1037,21.0,male,electronics,Smartphone,5,550.0,25%,"$2,062.50",NORTH
+TXN-0887,05-31-2023,CUST-1311,,female,,Air Conditioner,2,$650.00,0.05,1235.00,  North 
+TXN-0888,2023-08-30,CUST-1436,48.0,M,  Electronics ,Laptop,3,950.0,5%,2707.50,north
+TXN-0889,08-20-2023,CUST-1342,25.0,Male,Apparel , T-Shirt ,1,$25.00,25%,"$999,999.00",South
+txn_0890,07/10/2023,CUST-1348,67.0,Male,APPAREL,Hat,3, 18.0 ,25%,40.50,north
+TXN-0891,2023-07-15,CUST-1443,64.0,MALE,home appliances,Coffee Maker,1, 75.0 ,20%,60.00,North
+TXN-0892,2023-03-28,CUST-1314,62.0,  Male  ,Apparel, Hat ,4,$18.00,25%,$54.00,NORTH
+TXN-0893,2023.03.03,1232.0,28.0,Female,Home-Appliances,Microwave Oven,3,$180.00,0.05,$513.00,South
+TXN-0894,2023-08-16,CUST-1421,33.0,female,Electro,Laptop,4,$950.00,0.2,"$3,040.00",east
+TXN-0895,2023-10-01,CUST-1284,250.0,Male,Electronics,Laptop,4,$950.00,0.25,"$2,850.00",North
+TXN-0896,2023-10-07,,25.0,Male,apparel,Hat,5,$18.00,0.2,$72.00,north
+TXN-0897,"Nov 29, 2023",,20.0,F,Apparel ,Hat,3, 18.0 ,0.25,$40.50,west
+TXN-0898,2023-03-05,1280.0,40.0,  Male  ,ELECTRONICS,Laptop,2, 950.0 ,20%,"$1,520.00",east
+TXN-0899,08-04-2023,1005.0,27.0,female,, Laptop ,5,$950.00,5%,4512.50,east
+,"Feb 18, 2023",CUST-1292,34.0,MALE,APPAREL,Jacket,4, 110.0 ,,440.00,West
+TXN-0901,2023-01-28,CUST-1376,51.0,FEMALE,APPAREL,Hat,3,$18.00,0.15,45.90,east
+TXN-0902,2023-01-04,CUST-1496,48.0,male,apparel,Running Shoes,2,85.0,0.1,153.00,South
+TXN-0903,16/12/2023,CUST-1148,53.0,Female,home appliances,Air Conditioner,4,650.0,20%,"$2,080.00",west
+TXN-0904,23/06/2023,,54.0,Male,Appliances, Vacuum Cleaner ,3,$160.00,0.05,$456.00,West
+TXN-0905,06-14-2023,CUST-1064,46.0, Female ,clothing, T-Shirt ,1,0.0,10%,$0.00,NORTH
+TXN-0906,"Mar 07, 2023",CUST-1480,50.0,Male,Home-Appliances,Coffee Maker,4,$0.00,10%,$0.00,west
+TXN-0907,2023-06-05,CUST-1019,37.0,M,HOME APPLIANCES, Air Conditioner ,3,650.0,0.05,1852.50,South
+TXN-0908,2023.07.27,CUST-1433,68.0,female,HOME APPLIANCES,Refrigerator,5, 850.0 ,0.25,3187.50,  North 
+TXN-0909,2023.02.09,CUST-1017,38.0,Male,Appliances,Air Conditioner,4, 650.0 ,0.1,"$2,340.00",NORTH
+txn_0910,2023-10-08,CUST-1333,24.0,  Male  ,HOME APPLIANCES,Refrigerator,0,850.0,10%,0.00,south
+TXN-0911,2023-06-03,CUST-1236,22.0,FEMALE,apparel,Jacket,4,110.0,0.2,352.00,south
+TXN-0912,"Nov 25, 2023",CUST-1294,35.0,Female,Apparel ,Hat,2,18.0,20%,28.80,North
+TXN-0913,2023-03-14,1050.0,38.0,FEMALE,APPAREL,Hat,4, 18.0 ,0.05,$68.40,North
+TXN-0914,"Jul 17, 2023",CUST-1212,36.0,Female,Electro,Smartphone,3,$550.00,0.25,,South
+915,2023.09.28,1397.0,48.0,male,electronics,Smartwatch,3,$200.00,5%,$570.00,  North 
+TXN-0916,2023-10-01,CUST-1142,60.0, Female ,Home Appliances,Refrigerator,5,$850.00,0.1,3825.00,west
+TXN-0917,2023-06-02,CUST-1394,37.0,Male,Electro,Smartphone,1,550.0,0.1,495.00,south
+TXN-0918,2023-11-30,CUST-1181,66.0,FEMALE,Electronics,Tablet,2,350.0,25%,525.00,south
+TXN-0919,2023-09-20,CUST-1267,50.0,M,ELECTRONICS,Laptop,5,$950.00,10%,4275.00,North
+txn_0920,2023-99-99,CUST-1084,36.0,MALE,Home-Appliances, Refrigerator ,-1,850.0,5%,0.00,north
+TXN-0921,04/10/2023,1195.0,54.0, Female ,Apparel,Jacket,4,$110.00,0.2,,NORTH
+TXN-0922,"Mar 29, 2023",CUST-1018,45.0,  Male  ,Appliances,Coffee Maker,5,75.0,15%,$318.75,South
+TXN-0923,2023.09.26,CUST-1431,50.0, Female ,Apparel ,Hat,5,18.0,25%,$67.50,west
+TXN-0924,2023-03-21,1121.0,29.0, Female ,,Smartphone,5,550.0,0.2,2200.00,North
+TXN-0925,"Sep 08, 2023",CUST-1494,21.0,M,home appliances,Microwave Oven,2,180.0,0.2,$288.00,East
+TXN-0926,08-04-2023,CUST-1441,32.0,MALE,Electro, Smartphone ,1,550.0,5%,522.50,East
+TXN-0927,12-13-2023,1244.0,65.0,  Male  ,APPAREL,Jacket,5, 110.0 ,0.2,440.00,South
+TXN-0928,15/06/2023,CUST-1058,67.0,male,Appliances,Microwave Oven,4, 180.0 ,0.15,612.00,south
+TXN-0929,08-31-2023,,67.0,female,Apparel, Jeans ,3,60.0,5%,171.00,NORTH
+txn_0930,27/12/2023,CUST-1260,65.0,Male,Apparel,Hat,3, 18.0 ,5%,51.30,south
+TXN-0931,"May 07, 2023",1238.0,68.0,F,Apparel , Running Shoes ,5,$85.00,,425.00,  North 
+TXN-0932,"Aug 06, 2023",,,M,Electronics,Laptop,3,$950.00,0.15,2422.50,  North 
+TXN-0933,2023-10-15,CUST-1013,64.0,FEMALE,electronics,Wireless Headphones,2, 120.0 ,0.05,228.00,north
+TXN-0934,"Apr 07, 2023",1382.0,45.0,Male,APPAREL,Running Shoes,1, 85.0 ,10%,76.50,South
+TXN-0935,2023.08.13,CUST-1183,250.0, Female ,home appliances,Refrigerator,3, 850.0 ,15%,"$2,167.50",south
+TXN-0936,2023-07-12,CUST-1384,54.0,Female,Electro,Tablet,2,350.0,0.15,$595.00,west
+TXN-0937,2023-01-02,CUST-1373,68.0,  Male  ,APPAREL,T-Shirt,5,$25.00,,$125.00,south
+TXN-0938,"Jul 04, 2023",CUST-1191,30.0,male,Appliances,Coffee Maker,3,$75.00,15%,$191.25,east
+TXN-0939,18/02/2023,CUST-1191,64.0,F,Apparel,Jeans,1,60.0,0.05,"$999,999.00",west
+txn_0940,2023-10-08,,38.0,M,Electro,Laptop,1,950.0,5%,$902.50,east
+TXN-0941,28/01/2023,CUST-1221,62.0,Male,electronics, Smartphone ,2, 550.0 ,15%,$935.00,east
+TXN-0942,2023-05-08,1436.0,38.0, Female ,apparel, Jeans ,1,60.0,0.05,$57.00,north
+TXN-0943,27/04/2023,CUST-1489,28.0, Female ,Electro,Smartwatch,2,$200.00,25%,300.00,east
+TXN-0944,09/04/2023,CUST-1298,66.0,F,apparel,Jeans,3, 60.0 ,5%,171.00,East
+945,2023-06-20,CUST-1199,33.0,FEMALE,Home-Appliances,Vacuum Cleaner,3,160.0,0.15,408.00,east
+TXN-0946,12/06/2023,CUST-1357,26.0, Female ,APPAREL,Jeans,4, 60.0 ,5%,228.00,South
+TXN-0947,17/11/2023,CUST-1337,50.0,MALE,Home Appliances,Refrigerator,2,850.0,0.25,1275.00,west
+TXN-0948,2023.02.21,CUST-1045,,,Electro, Laptop ,1,$950.00,0.2,,NORTH
+TXN-0949,21/05/2023,CUST-1146,67.0,F,APPAREL,Jeans,2, 60.0 ,0.1,108.00,  North 
+,03/06/2023,CUST-1258,60.0,female,Home-Appliances,Microwave Oven,4,180.0,10%,$648.00,east
+TXN-0951,2023.03.28,,54.0, Female ,,Laptop,3,950.0,0.1,"$2,565.00",  North 
+TXN-0952,2023-12-20,CUST-1442,20.0,  Male  ,Apparel, Running Shoes ,-1,85.0,,0.00,NORTH
+TXN-0953,2023.01.20,CUST-1436,52.0,male,Appliances, Coffee Maker ,2,75.0,0.15,$127.50,east
+TXN-0954,2023.12.23,1428.0,31.0,female,ELECTRONICS,Smartphone,1,$550.00,0.05,$522.50,NORTH
+TXN-0955,2023-08-26,CUST-1284,23.0,FEMALE,ELECTRONICS,Wireless Headphones,1,120.0,25%,$90.00,north
+TXN-0956,2023-10-11,,25.0,female,  Electronics ,Smartwatch,1, 200.0 ,15%,$170.00,NORTH
+TXN-0957,2023.02.04,CUST-1085,59.0,  Male  ,Apparel, Jeans ,1,60.0,0.15,$51.00,south
+TXN-0958,19/10/2023,1054.0,64.0,F,Apparel ,Running Shoes,2,$85.00,5%,161.50,east
+TXN-0959,"Jan 14, 2023",CUST-1339,,  Male  ,apparel, T-Shirt ,4,$25.00,25%,$75.00,east
+txn_0960,2023-10-05,CUST-1411,52.0,F,apparel,Jeans,2,$60.00,0.1,$108.00,NORTH
+TXN-0961,2023.04.09,CUST-1000,66.0,F,Apparel,Running Shoes,1,$85.00,,$85.00,West
+TXN-0962,2023-03-16,1422.0,,  Male  ,HOME APPLIANCES,Coffee Maker,4,$75.00,0.05,285.00,East
+TXN-0963,2023.06.04,CUST-1402,24.0,  Male  ,  Electronics ,Smartwatch,2,$200.00,0.25,300.00,West
+TXN-0964,2023-10-14,CUST-1116,25.0,male,Appliances,Coffee Maker,2,75.0,0.15,127.50,  North 
+TXN-0965,2023-06-06,CUST-1294,250.0,female,Apparel,Hat,5, 18.0 ,20%,72.00,East
+TXN-0966,"Jan 23, 2023",CUST-1047,53.0, Female ,Apparel, Jacket ,3,110.0,0.25,247.50,West
+TXN-0967,2023-04-03,CUST-1123,29.0,FEMALE,, Vacuum Cleaner ,3,$160.00,0.2,$384.00,  North 
+TXN-0968,15/01/2023,CUST-1193,,Female,home appliances,Coffee Maker,5, 75.0 ,0.1,337.50,west
+TXN-0969,04-26-2023,,43.0, Female ,Apparel , Jeans ,5,$60.00,20%,$240.00,South
+txn_0970,"Apr 01, 2023",CUST-1427,,M,Apparel,Hat,2,$18.00,15%,30.60,North
+TXN-0971,2023-10-23,CUST-1115,56.0,Male,electronics,Laptop,4, 950.0 ,0.15,"$3,230.00",  North 
+TXN-0972,"Jan 02, 2023",CUST-1460,150.0,MALE,electronics, Wireless Headphones ,4, 120.0 ,15%,$408.00,north
+TXN-0973,06-01-2023,CUST-1467,46.0,female,Apparel ,Hat,4,$18.00,25%,54.00,east
+TXN-0974,2023-02-07,CUST-1125,48.0,F,,Microwave Oven,3,$180.00,0.05,$513.00,west
+975,2023.05.26,CUST-1254,27.0,MALE,, Refrigerator ,3,$850.00,0.25,1912.50,South
+TXN-0976,05-13-2023,CUST-1435,26.0,FEMALE,Electronics,Tablet,4,350.0,0.1,1260.00,North
+TXN-0977,07-18-2023,CUST-1149,68.0,Female,home appliances,Vacuum Cleaner,3, 160.0 ,0.15,408.00,east
+TXN-0978,2023.09.28,CUST-1084,36.0,male,,Wireless Headphones,1000,120.0,0.15,102000.00,NORTH
+TXN-0979,2023-08-18,CUST-1118,57.0,MALE,HOME APPLIANCES,Air Conditioner,3, 650.0 ,,1950.00,West
+txn_0980,2023-12-20,1466.0,54.0,M,clothing,Running Shoes,2, 85.0 ,0.25,$127.50,South
+TXN-0981,2023-08-16,CUST-1474,38.0,female,Electro, Smartwatch ,2,200.0,5%,380.00,North
+TXN-0982,2023-01-26,CUST-1137,67.0,FEMALE,home appliances,Vacuum Cleaner,1,160.0,25%,120.00,east
+TXN-0983,2023-06-21,CUST-1456,26.0,,Electro,Smartphone,2,550.0,,"$1,100.00",North
+TXN-0984,02-25-2023,CUST-1402,63.0,FEMALE,electronics,Laptop,1, 950.0 ,,$950.00,west
+TXN-0985,08/02/2023,CUST-1324,59.0,  Male  ,APPAREL,T-Shirt,1,25.0,20%,$20.00,north
+TXN-0986,08/11/2023,CUST-1336,51.0,MALE,Home Appliances,Coffee Maker,4,75.0,0.25,$225.00,west
+TXN-0987,06/12/2023,CUST-1021,39.0,FEMALE,electronics,Smartwatch,3, 200.0 ,0.15,510.00,west
+TXN-0988,"May 25, 2023",1239.0,39.0,male,  Electronics ,Tablet,4,$350.00,10%,"$1,260.00",West
+TXN-0989,"Sep 03, 2023",CUST-1331,58.0,Male,electronics,Tablet,1,$350.00,0.1,"$999,999.00",  North 
+txn_0990,2023-08-30,CUST-1391,63.0,F,Home-Appliances,Coffee Maker,1, 75.0 ,0.2,60.00,North
+TXN-0991,15/08/2023,CUST-1366,36.0,F,Electronics,Smartphone,4,$550.00,0.2,"$1,760.00",east
+TXN-0992,11-09-2023,CUST-1233,57.0,female,apparel, T-Shirt ,5,$25.00,0.15,106.25,South
+TXN-0993,23/08/2023,CUST-1428,34.0, Female ,Home-Appliances, Air Conditioner ,2, 650.0 ,25%,975.00,north
+TXN-0994,2023-02-05,CUST-1004,,,  Electronics ,Smartphone,4,550.0,10%,"$1,980.00",West
+TXN-0995,15/02/2023,CUST-1241,42.0,FEMALE,Home-Appliances,Coffee Maker,2,$75.00,0.2,$120.00,west
+TXN-0996,2023.06.08,CUST-1303,49.0,  Male  ,,Tablet,2,$350.00,,700.00,East
+TXN-0997,2023.10.29,CUST-1421,43.0,MALE,electronics,Laptop,2,950.0,5%,1805.00,west
+TXN-0998,01/11/2023,CUST-1058,37.0,FEMALE,home appliances,Vacuum Cleaner,3,160.0,0.25,360.00,South
+TXN-0999,"Aug 16, 2023",CUST-1201,19.0,male,home appliances,Microwave Oven,5,180.0,0.2,$720.00,north
+,2023.06.28,CUST-1379,45.0,MALE,  Electronics ,Smartphone,5, 550.0 ,10%,2475.00,north
+TXN-1001,"Sep 06, 2023",1253.0,26.0,FEMALE,apparel,Jeans,3, 60.0 ,10%,$162.00,east
+TXN-1002,2023-08-16,CUST-1352,23.0,Female,clothing,Jeans,5,$60.00,25%,$225.00,East
+TXN-1003,"Sep 02, 2023",CUST-1308,19.0,MALE,APPAREL,Hat,1, 18.0 ,0.05,17.10,South
+TXN-1004,2023.02.05,CUST-1444,52.0,male,APPAREL,Hat,3,$18.00,15%,45.90,west
+1005,2023-09-09,1119.0,55.0,male,home appliances,Vacuum Cleaner,0, 160.0 ,0.25,0.00,NORTH
+TXN-1006,24/03/2023,CUST-1060,-1.0,Male,Electro,Tablet,-2,350.0,20%,$0.00,West
+TXN-1007,2023-11-22,CUST-1452,59.0,  Male  ,Appliances,Air Conditioner,4,650.0,10%,"$2,340.00",East
+TXN-1008,"Feb 03, 2023",CUST-1499,40.0,FEMALE,HOME APPLIANCES,Refrigerator,2,850.0,0.1,1530.00,south
+TXN-1009,10/06/2023,,41.0,Male,clothing,Running Shoes,4, 85.0 ,15%,289.00,East
+txn_1010,10-02-2023,,21.0,Male,Appliances,Vacuum Cleaner,1,$160.00,0.25,$120.00,West
+TXN-1011,03-14-2023,CUST-1176,18.0,Male,home appliances,Coffee Maker,1,75.0,15%,$63.75,East
+TXN-1012,"Feb 03, 2023",CUST-1351,32.0, Female ,ELECTRONICS, Smartwatch ,1,$200.00,5%,$190.00,West
+TXN-1013,2023.05.16,CUST-1463,25.0,FEMALE,home appliances,Vacuum Cleaner,3, 160.0 ,0.05,456.00,East
+TXN-1014,2023-02-10,CUST-1424,32.0,Male,Electro, Laptop ,4,$950.00,0.05,"$3,610.00",West
+TXN-1015,2023-08-05,CUST-1389,29.0,Male,clothing, T-Shirt ,4,25.0,10%,90.00,South
+TXN-1016,11-13-2023,CUST-1252,20.0, Female ,Appliances, Coffee Maker ,4, 75.0 ,10%,270.00,west
+TXN-1017,06-07-2023,1149.0,41.0,MALE,ELECTRONICS, Smartphone ,2,$550.00,15%,$935.00,East
+TXN-1018,2023-10-30,CUST-1458,30.0,MALE,  Electronics ,Wireless Headphones,1,120.0,20%,$96.00,  North 
+TXN-1019,2023.12.11,CUST-1491,46.0,M,Electro, Laptop ,5, 950.0 ,,4750.00,East
+txn_1020,"Apr 22, 2023",CUST-1395,,FEMALE,Apparel , Jacket ,5, 110.0 ,5%,,NORTH
+TXN-1021,2023-03-09,CUST-1124,20.0,  Male  ,Electronics, Smartphone ,4, 550.0 ,,"$2,200.00",West
+TXN-1022,2023-06-28,CUST-1074,50.0,male,Appliances,Microwave Oven,3,$180.00,0.05,,South
+TXN-1023,03/12/2023,CUST-1016,61.0,female,Apparel ,Running Shoes,5,85.0,0.1,382.50,south
+TXN-1024,"Sep 06, 2023",1181.0,63.0,Male,Home Appliances,Microwave Oven,3,$180.00,0.25,$405.00,west
+TXN-1025,2023-02-11,CUST-1041,37.0,Female,Apparel , T-Shirt ,1,25.0,0.2,20.00,west
+TXN-1026,14/03/2023,CUST-1068,42.0,F,Apparel,Jeans,2,60.0,5%,114.00,south
+TXN-1027,07-14-2023,CUST-1195,64.0,  Male  ,Home Appliances, Microwave Oven ,3, 180.0 ,10%,$486.00,east
+TXN-1028,09-03-2023,CUST-1500,48.0,MALE,  Electronics ,Wireless Headphones,5,120.0,0.1,540.00,NORTH
+TXN-1029,2023-11-01,CUST-1029,35.0,  Male  ,,Air Conditioner,1,$650.00,15%,,west
+txn_1030,2023.08.17,CUST-1333,,Female,  Electronics ,Laptop,3, 950.0 ,0.25,"$2,137.50",West
+TXN-1031,2023.02.26,CUST-1213,53.0,male,Electronics,Laptop,3,$950.00,0.1,2565.00,East
+TXN-1032,"Apr 02, 2023",CUST-1311,53.0,male,apparel,Jacket,5,$110.00,0.1,495.00,West
+TXN-1033,08-07-2023,CUST-1087,62.0,male,electronics, Laptop ,3, 950.0 ,5%,2707.50,East
+TXN-1034,20/06/2023,CUST-1495,56.0,FEMALE,Apparel, Running Shoes ,2,$85.00,15%,144.50,NORTH
+1035,2023-10-13,CUST-1485,44.0,male,apparel,T-Shirt,5, 25.0 ,0.1,$112.50,east
+TXN-1036,27/01/2023,,43.0,Female,  Electronics , Smartwatch ,3,200.0,0.15,510.00,NORTH
+TXN-1037,"Feb 25, 2023",CUST-1168,23.0,FEMALE,home appliances,Refrigerator,4, 850.0 ,0.1,"$3,060.00",NORTH
+TXN-1038,29/03/2023,CUST-1048,68.0,MALE,Home Appliances,Microwave Oven,2,$180.00,,360.00,south
+TXN-1039,2023.03.28,CUST-1342,62.0,Female,,Wireless Headphones,1,120.0,,$120.00,  North 
+txn_1040,"Feb 22, 2023",CUST-1317,47.0,,electronics,Wireless Headphones,5, 120.0 ,5%,570.00,NORTH
+TXN-1041,23/10/2023,,42.0,female,Home-Appliances,Refrigerator,2,$850.00,0.05,1615.00,  North 
+TXN-1042,09/01/2023,CUST-1143,36.0,,home appliances,Microwave Oven,2,180.0,10%,324.00,west
+TXN-1043,08-12-2023,CUST-1397,29.0,FEMALE,clothing,Jeans,4,$60.00,0.25,180.00,west
+TXN-1044,2023.11.15,CUST-1245,33.0, Female ,Home-Appliances,Air Conditioner,4,$650.00,0.25,"$999,999.00",  North 
+TXN-1045,10-29-2023,CUST-1233,36.0, Female ,Home-Appliances,Air Conditioner,5,$650.00,,3250.00,North
+TXN-1046,2023-08-10,CUST-1225,66.0,FEMALE,Home-Appliances, Vacuum Cleaner ,4,$160.00,0.05,608.00,east
+TXN-1047,12-06-2023,CUST-1092,41.0,female,APPAREL, Jacket ,3,$110.00,20%,$264.00,East
+TXN-1048,2023-01-24,CUST-1091,48.0,FEMALE,ELECTRONICS,Wireless Headphones,2,120.0,0.15,$204.00,east
+TXN-1049,2023-06-04,CUST-1127,33.0,female,Home Appliances,Vacuum Cleaner,2, 160.0 ,,320.00,  North 
+,2023.02.13,1150.0,41.0,F,clothing,T-Shirt,4,$25.00,20%,80.00,south
+TXN-1051,2023.09.18,CUST-1125,61.0,MALE,Apparel ,Jeans,1,$60.00,20%,48.00,NORTH
+TXN-1052,"Jul 31, 2023",CUST-1275,57.0,FEMALE,Appliances,Microwave Oven,3,180.0,0.25,$405.00,West
+TXN-1053,10/05/2023,CUST-1285,27.0,,Home-Appliances,Air Conditioner,3,$650.00,0.2,1560.00,North
+TXN-1054,2023-01-17,,68.0,female,Appliances, Air Conditioner ,3,650.0,20%,"$1,560.00",NORTH
+TXN-1055,2023-08-09,CUST-1390,,  Male  ,clothing,Jeans,3, 60.0 ,0.05,171.00,east
+TXN-1056,2023-06-10,CUST-1162,46.0,  Male  ,Home Appliances,Vacuum Cleaner,1,160.0,5%,$152.00,east
+TXN-1057,2023.03.17,,43.0, Female ,Apparel,Running Shoes,2, 85.0 ,10%,$153.00,West
+TXN-1058,2023.05.04,CUST-1034,31.0,FEMALE,Home Appliances,Microwave Oven,2, 180.0 ,25%,$270.00,NORTH
+TXN-1059,2023.04.07,1476.0,28.0,MALE,Electro,Smartphone,5,550.0,0.15,"$2,337.50",north
+txn_1060,2023.07.07,1181.0,44.0,FEMALE,ELECTRONICS,Smartwatch,5,$200.00,0.25,750.00,  North 
+TXN-1061,2023-06-05,1087.0,42.0,FEMALE,Apparel,Running Shoes,2, 85.0 ,0.25,127.50,North
+TXN-1062,2023.01.29,CUST-1197,56.0,M,home appliances, Refrigerator ,4,$850.00,0.05,"$3,230.00",East
+TXN-1063,08-30-2023,1370.0,23.0,Female,Electronics,Tablet,1,$350.00,25%,262.50,east
+TXN-1064,11-11-2023,CUST-1233,45.0,  Male  ,APPAREL, T-Shirt ,5,$25.00,25%,93.75,  North 
+1065,"Feb 22, 2023",CUST-1383,62.0,Male,Appliances,Coffee Maker,1,$75.00,10%,$67.50,east
+TXN-1066,"Nov 29, 2023",CUST-1195,30.0,F,Electronics,Tablet,0,350.0,15%,$0.00,South
+TXN-1067,2023-03-16,CUST-1467,57.0,M,electronics,Tablet,3,$350.00,5%,997.50,North
+TXN-1068,2023.03.17,CUST-1022,68.0,M,Home-Appliances,Refrigerator,3,850.0,15%,"$2,167.50",west
+TXN-1069,10-27-2023,CUST-1132,42.0,Female,home appliances,Refrigerator,5, 850.0 ,0.25,3187.50,North
+txn_1070,28/11/2023,1045.0,30.0,Male,Apparel ,Jeans,1, 60.0 ,,60.00,west
+TXN-1071,15/06/2023,CUST-1291,63.0,  Male  ,clothing,Hat,4,$18.00,0.05,$68.40,  North 
+TXN-1072,2023-04-24,CUST-1413,66.0,FEMALE,Apparel ,T-Shirt,2,$25.00,0.25,37.50,west
+TXN-1073,2023-01-01,CUST-1191,50.0,female,HOME APPLIANCES,Coffee Maker,4,75.0,0.15,255.00,  North 
+TXN-1074,10-22-2023,CUST-1325,38.0,Female,apparel,T-Shirt,5, 25.0 ,0.15,106.25,east
+TXN-1075,2023-06-15,CUST-1404,34.0,  Male  ,APPAREL,Jacket,4,$110.00,0.25,330.00,North
+TXN-1076,2023-04-16,CUST-1427,20.0,Female,apparel, Hat ,3, 18.0 ,25%,40.50,west
+TXN-1077,2023-05-11,CUST-1411,20.0,MALE,HOME APPLIANCES,Air Conditioner,2,$650.00,25%,975.00,East
+TXN-1078,2023-05-20,CUST-1456,45.0,  Male  ,Electro,Wireless Headphones,3,$120.00,0.15,$306.00,west
+TXN-1079,"Jun 28, 2023",CUST-1078,20.0,male,HOME APPLIANCES,Vacuum Cleaner,2,160.0,0.15,$272.00,south
+txn_1080,"Nov 07, 2023",CUST-1147,-5.0,Female,  Electronics ,Smartwatch,1,$200.00,,$200.00,south
+TXN-1081,26/03/2023,CUST-1141,66.0,MALE,APPAREL,Hat,4,18.0,,"$999,999.00",East
+TXN-1082,2023-11-10,CUST-1427,45.0,F,Electro,Wireless Headphones,1,$120.00,5%,$114.00,north
+TXN-1083,2023.04.18,1026.0,39.0,F,apparel,T-Shirt,1,25.0,10%,$22.50,south
+TXN-1084,04-25-2023,CUST-1249,39.0,Female,  Electronics ,Laptop,5,$950.00,0.25,3562.50,West
+TXN-1085,2023-09-14,1403.0,34.0,male,Apparel , T-Shirt ,3,$25.00,15%,63.75,north
+TXN-1086,2023.09.10,CUST-1420,25.0,Female,Electronics,Wireless Headphones,3, 120.0 ,,$360.00,West
+TXN-1087,2023-11-12,1053.0,42.0,  Male  ,Apparel ,T-Shirt,5, 25.0 ,0.05,$118.75,west
+TXN-1088,"Oct 27, 2023",CUST-1101,33.0,Female,Appliances,Air Conditioner,2,$650.00,10%,"$1,170.00",North
+TXN-1089,2023-05-20,CUST-1158,57.0,female,electronics,Laptop,4, 950.0 ,0.25,2850.00,North
+txn_1090,2023-01-27,CUST-1396,53.0,female,Appliances, Microwave Oven ,4,180.0,5%,$684.00,  North 
+TXN-1091,15/02/2023,CUST-1407,58.0,Female,Electro, Laptop ,5,950.0,15%,4037.50,south
+TXN-1092,10/07/2023,CUST-1162,25.0,FEMALE,APPAREL, Jeans ,5, 60.0 ,25%,225.00,east
+TXN-1093,2023-06-04,CUST-1441,42.0,M,, Running Shoes ,2,85.0,20%,$136.00,west
+TXN-1094,"Jul 22, 2023",1293.0,,F,clothing,Jacket,5,110.0,0.05,$522.50,south
+1095,"Sep 26, 2023",CUST-1052,32.0,,apparel,Running Shoes,4, 85.0 ,5%,323.00,  North 
+TXN-1096,01-11-2023,CUST-1494,49.0,MALE,HOME APPLIANCES,Microwave Oven,5,$180.00,0.15,765.00,  North 
+TXN-1097,"Aug 26, 2023",1170.0,33.0,female,APPAREL,Jeans,500,60.0,,30000.00,west
+TXN-1098,14/03/2023,CUST-1279,37.0, Female ,Electronics,Smartphone,3, 550.0 ,25%,"$1,237.50",NORTH
+TXN-1099,2023-02-11,CUST-1077,23.0,Female,Appliances,Refrigerator,2,850.0,,"$1,700.00",North
+,"Jan 17, 2023",CUST-1457,34.0,female,, Smartwatch ,2,200.0,20%,$320.00,east
+TXN-1101,"Aug 26, 2023",1143.0,59.0, Female ,Apparel ,Jacket,1, 110.0 ,10%,99.00,West
+TXN-1102,09-13-2023,1277.0,20.0,F,apparel,T-Shirt,4,$25.00,20%,80.00,East
+TXN-1103,10-24-2023,CUST-1060,54.0,  Male  ,HOME APPLIANCES,Vacuum Cleaner,4,160.0,25%,480.00,North
+TXN-1104,2023-04-15,CUST-1350,65.0,female,Appliances,Air Conditioner,4,650.0,20%,"$2,080.00",West
+TXN-1105,"Nov 02, 2023",,44.0,MALE,clothing, Jacket ,4, 110.0 ,0.1,$396.00,NORTH
+TXN-1106,2023.01.17,CUST-1085,30.0,MALE,home appliances,Microwave Oven,3,180.0,0.2,432.00,North
+TXN-1107,2023-11-10,CUST-1275,26.0,male,APPAREL,Jeans,4,$60.00,25%,$180.00,north
+TXN-1108,2023.10.24,CUST-1185,27.0,Male,Electro,Laptop,3,$950.00,0.2,"$2,280.00",NORTH
+TXN-1109,2023.04.28,CUST-1127,20.0,male,ELECTRONICS,Smartphone,5,550.0,0.25,"$2,062.50",north
+txn_1110,03-22-2023,CUST-1088,60.0,  Male  ,Electro, Wireless Headphones ,5, 120.0 ,,$600.00,north
+TXN-1111,2023-01-11,CUST-1385,,F,ELECTRONICS,Tablet,4,350.0,,"$1,400.00",West
+TXN-1112,2023-11-29,CUST-1207,34.0,Male,Apparel , T-Shirt ,3,25.0,0.25,56.25,west
+TXN-1113,2023-07-23,CUST-1407,46.0,M,Electro,Smartwatch,3,$200.00,5%,$570.00,  North 
+TXN-1114,05/09/2023,,26.0,,home appliances,Vacuum Cleaner,2,160.0,,$320.00,West
+TXN-1115,24/06/2023,1274.0,41.0,male,apparel,Hat,5,$18.00,0.15,$76.50,south
+TXN-1116,2023.04.04,CUST-1298,40.0,FEMALE,home appliances,Coffee Maker,4,$75.00,0.2,240.00,south
+TXN-1117,22/11/2023,CUST-1155,49.0,female,Electronics,Smartwatch,3,200.0,,$600.00,South
+TXN-1118,2023-10-01,1241.0,21.0,Male,Electronics,Wireless Headphones,2,$120.00,20%,$192.00,East
+TXN-1119,2023-11-01,CUST-1118,,  Male  ,Electronics,Wireless Headphones,2,120.0,10%,216.00,East
+txn_1120,2023-10-20,CUST-1267,32.0,Female,APPAREL,Jeans,5,60.0,0.15,$255.00,West
+TXN-1121,12/02/2023,1086.0,28.0,F,home appliances,Air Conditioner,0, 650.0 ,,$0.00,West
+TXN-1122,02-04-2023,CUST-1250,38.0,Male,APPAREL, Jeans ,4,60.0,0.2,192.00,  North 
+TXN-1123,2023-06-06,CUST-1141,67.0,M,ELECTRONICS, Smartwatch ,3,$200.00,25%,,West
+TXN-1124,22/05/2023,CUST-1106,,female,electronics, Smartwatch ,1, 200.0 ,10%,180.00,east
+1125,06/03/2023,CUST-1249,40.0,F,  Electronics ,Smartphone,1,$550.00,0.15,467.50,NORTH
+TXN-1126,10/07/2023,CUST-1416,,FEMALE,Apparel,T-Shirt,3,$25.00,0.15,$63.75,West
+TXN-1127,"Jun 20, 2023",CUST-1254,43.0,MALE,  Electronics ,Laptop,2, 950.0 ,0.05,1805.00,east
+TXN-1128,2023-06-11,1223.0,36.0,Female,Electro,Smartwatch,5, 200.0 ,20%,800.00,North
+TXN-1129,01-23-2023,CUST-1049,56.0,FEMALE,  Electronics , Laptop ,4,$950.00,25%,2850.00,East
+txn_1130,09-28-2023,CUST-1023,60.0,Female,  Electronics ,Laptop,5, 950.0 ,0.05,4512.50,south
+TXN-1131,21/03/2023,CUST-1144,,Male,apparel, Jacket ,5,110.0,15%,$467.50,north
+TXN-1132,07-18-2023,CUST-1194,46.0,FEMALE,Electro,Wireless Headphones,4,120.0,0.1,432.00,West
+TXN-1133,2023-10-29,1270.0,39.0,MALE,Electro,Smartwatch,2,200.0,0.1,$360.00,NORTH
+TXN-1134,02-22-2023,1191.0,38.0,,ELECTRONICS,Smartphone,1,550.0,20%,$440.00,south
+TXN-1135,19/02/2023,,33.0,Male,,Jeans,5,60.0,15%,255.00,East
+TXN-1136,"Jul 31, 2023",CUST-1354,56.0,M,electronics,Wireless Headphones,1,$120.00,15%,102.00,north
+TXN-1137,2023-07-04,CUST-1022,51.0,M,  Electronics ,Tablet,-2,350.0,10%,$0.00,south
+TXN-1138,2023-11-22,CUST-1099,48.0,Female,APPAREL,Jacket,3,$110.00,20%,$264.00,north
+TXN-1139,07/07/2023,CUST-1446,62.0,female,Electronics,Wireless Headphones,2, 120.0 ,,$240.00,west
+txn_1140,2023.03.05,CUST-1375,60.0,M,Apparel ,Hat,3,$18.00,15%,$45.90,west
+TXN-1141,2023-02-23,CUST-1043,38.0,F,Home Appliances,Microwave Oven,4,$0.00,0.05,$0.00,west
+TXN-1142,2023-09-27,,40.0,female,Apparel , Jacket ,4,110.0,10%,$396.00,  North 
+TXN-1143,2023-09-26,CUST-1311,65.0, Female ,apparel,Hat,1,$18.00,20%,14.40,East
+TXN-1144,2023-07-23,1013.0,59.0,female,apparel,Jacket,3,$110.00,25%,$247.50,  North 
+TXN-1145,09-23-2023,CUST-1239,,female,Home Appliances,Vacuum Cleaner,4,-$50.00,0.1,0.00,South
+TXN-1146,2023.01.19,CUST-1037,66.0,Male,HOME APPLIANCES,Vacuum Cleaner,3,160.0,25%,360.00,west
+TXN-1147,2023-12-06,CUST-1175,54.0,F,Electronics,Wireless Headphones,1, 120.0 ,0.25,$90.00,east
+TXN-1148,2023.02.27,CUST-1120,54.0,female,home appliances,Refrigerator,2,850.0,0.2,1360.00,West
+TXN-1149,"Jul 18, 2023",CUST-1040,35.0,male,Home-Appliances,Microwave Oven,4,0.0,5%,0.00,north
+,04/03/2023,CUST-1415,41.0,female,home appliances,Coffee Maker,1,$75.00,15%,"$999,999.00",South
+TXN-1151,2023-05-02,CUST-1050,43.0, Female ,APPAREL,Hat,1, 18.0 ,5%,17.10,North
+TXN-1152,2023-06-17,CUST-1235,34.0, Female ,Electronics, Laptop ,1, 950.0 ,0.25,712.50,North
+TXN-1153,2023-12-15,CUST-1244,31.0,  Male  ,Appliances, Air Conditioner ,4,$650.00,0.15,"$2,210.00",north
+TXN-1154,29/09/2023,1109.0,43.0,male,Home Appliances,Air Conditioner,1,650.0,0.2,520.00,  North 
+1155,"Feb 03, 2023",1124.0,60.0, Female ,apparel,Hat,2,18.0,5%,34.20,  North 
+TXN-1156,11-16-2023,CUST-1095,44.0,  Male  ,Appliances,Vacuum Cleaner,4,160.0,5%,$608.00,south
+TXN-1157,2023.11.06,,39.0,Female,Electronics,Smartphone,2,550.0,,1100.00,North
+TXN-1158,17/05/2023,1091.0,43.0,MALE,HOME APPLIANCES,Refrigerator,2,$850.00,0.25,"$1,275.00",  North 
+TXN-1159,"Nov 05, 2023",CUST-1177,27.0,F,Electronics, Smartwatch ,4, 200.0 ,0.1,720.00,north
+txn_1160,2023.03.24,CUST-1105,52.0,,electronics, Laptop ,5,950.0,25%,"$3,562.50",north
+TXN-1161,2023-08-30,CUST-1087,45.0,  Male  ,electronics, Smartphone ,9999,$550.00,25%,4124587.50,NORTH
+TXN-1162,"Nov 10, 2023",CUST-1202,64.0,Female,Apparel, Jacket ,5,$110.00,0.15,$467.50,North
+TXN-1163,2023-04-18,1123.0,59.0,Male,electronics,Smartphone,3,550.0,0.2,"$1,320.00",  North 
+TXN-1164,"Aug 01, 2023",CUST-1460,53.0,  Male  ,,Laptop,-1,$950.00,20%,$0.00,west
+TXN-1165,2023-05-29,1168.0,44.0, Female ,electronics,Wireless Headphones,1,$120.00,,120.00,east
+TXN-1166,04-10-2023,CUST-1190,28.0,FEMALE,ELECTRONICS,Laptop,4,$950.00,0.05,3610.00,NORTH
+TXN-1167,2023.12.13,CUST-1044,28.0,Female,Apparel ,T-Shirt,5, 25.0 ,0.15,"$999,999.00",South
+TXN-1168,2023.05.11,CUST-1361,52.0,  Male  ,electronics, Smartphone ,3,550.0,10%,"$1,485.00",East
+TXN-1169,2023.09.11,1348.0,55.0,MALE,,Jacket,2,$110.00,5%,209.00,East
+txn_1170,2023-10-20,1178.0,29.0,MALE,clothing,Running Shoes,9999,85.0,,849915.00,  North 
+TXN-1171,2023-04-27,CUST-1199,65.0, Female ,Apparel ,Hat,4, 18.0 ,0.05,68.40,West
+TXN-1172,2023-10-04,CUST-1262,53.0,FEMALE,Home Appliances,Refrigerator,5, 850.0 ,25%,"$999,999.00",South
+TXN-1173,2023.10.28,CUST-1400,37.0,Female,APPAREL,Jacket,1,110.0,10%,99.00,south
+TXN-1174,2023.08.20,CUST-1479,39.0,FEMALE,Appliances,Air Conditioner,5,650.0,20%,2600.00,West
+TXN-1175,2023.08.02,CUST-1158,37.0,F,apparel, T-Shirt ,4,$25.00,10%,$90.00,west
+TXN-1176,18/07/2023,CUST-1364,33.0,female,  Electronics ,Smartwatch,1,$200.00,0.1,$180.00,West
+TXN-1177,2023-06-10,CUST-1145,56.0,MALE,electronics,Smartwatch,4,$200.00,,$800.00,West
+TXN-1178,2023-03-18,CUST-1037,34.0,Female,Electro,Smartphone,5,550.0,10%,2475.00,East
+TXN-1179,"Aug 13, 2023",CUST-1445,59.0,Male,ELECTRONICS,Smartphone,1,$550.00,0.15,$467.50,East
+txn_1180,"Jan 04, 2023",CUST-1410,31.0,M,apparel,Jeans,4,60.0,0.2,192.00,east
+TXN-1181,16/10/2023,CUST-1031,39.0,female,Appliances, Coffee Maker ,1,$75.00,5%,$71.25,south
+TXN-1182,"Jan 17, 2023",CUST-1467,22.0,MALE,apparel,Hat,5,18.0,5%,,north
+TXN-1183,2023-03-30,CUST-1064,59.0,  Male  ,Electronics,Tablet,5, 350.0 ,10%,1575.00,North
+TXN-1184,2023.03.27,CUST-1132,50.0,M,ELECTRONICS,Laptop,0, 950.0 ,15%,0.00,East
+1185,05/07/2023,CUST-1128,52.0,F,,Tablet,4, 350.0 ,0.1,1260.00,NORTH
+TXN-1186,"Jun 06, 2023",CUST-1069,43.0,male,Apparel ,Running Shoes,500,$85.00,20%,34000.00,North
+TXN-1187,2023-04-14,CUST-1193,54.0,male,Appliances,Air Conditioner,3, 650.0 ,15%,,  North 
+TXN-1188,2023.02.13,CUST-1267,25.0,FEMALE,Apparel ,Hat,1,18.0,,$18.00,east
+TXN-1189,2023-10-24,CUST-1358,44.0,Male,Apparel, Running Shoes ,1,85.0,15%,$72.25,south
+txn_1190,2023-08-31,CUST-1360,23.0,,clothing,Hat,5,18.0,0.15,76.50,West
+TXN-1191,08/06/2023,CUST-1347,34.0,M,Home Appliances,Refrigerator,2,$850.00,15%,"$1,445.00",  North 
+TXN-1192,"Apr 28, 2023",CUST-1293,46.0,male,Home-Appliances,Air Conditioner,0, 650.0 ,0.15,$0.00,east
+TXN-1193,09-18-2023,CUST-1263,,Female,apparel,Running Shoes,3,$85.00,25%,$191.25,NORTH
+TXN-1194,2023-10-30,1492.0,,Female,Apparel,Jacket,5,110.0,10%,$495.00,South
+TXN-1195,2023-12-04,CUST-1354,66.0,,Electro,Smartphone,4,$550.00,15%,1870.00,West
+TXN-1196,2023-10-08,CUST-1437,61.0,FEMALE,HOME APPLIANCES,Coffee Maker,4,75.0,0.2,$240.00,West
+TXN-1197,2023.09.13,,57.0,M,Electro,Tablet,4,350.0,15%,1190.00,north
+TXN-1198,2023-05-23,CUST-1069,62.0,female,Electronics,Smartwatch,4,200.0,15%,$680.00,south
+TXN-1199,09-28-2023,CUST-1368,25.0,male,Home-Appliances,Vacuum Cleaner,2,$160.00,20%,256.00,East
+,2023-02-22,1325.0,21.0,F,electronics,Smartwatch,4,200.0,0.2,$640.00,north
+TXN-1179,"Aug 13, 2023",CUST-1445,59.0,Male,ELECTRONICS,Smartphone,1,$550.00,0.15,$467.50,East
+TXN-0866,2023-11-08,1243.0,25.0,,HOME APPLIANCES, Refrigerator ,5,$850.00,0.2,"$3,400.00",South
+TXN-0102,2023.01.15,CUST-1219,31.0,male,clothing, Jeans ,3,60.0,0.2,144.00,  North 
+txn_0440,02-27-2023,CUST-1126,47.0,male,Electro,Smartwatch,4, 200.0 ,0.1,720.00,south
+TXN-0059,04-24-2023,CUST-1202,23.0,Male,Electronics,Laptop,2,950.0,20%,"$999,999.00",north
+TXN-1121,12/02/2023,1086.0,28.0,F,home appliances,Air Conditioner,0, 650.0 ,,$0.00,West
+TXN-0324,"Jun 18, 2023",CUST-1377,47.0,  Male  ,apparel,Running Shoes,4, 85.0 ,0.2,$272.00,west
+975,2023.05.26,CUST-1254,27.0,MALE,, Refrigerator ,3,$850.00,0.25,1912.50,South
+TXN-0412,11-01-2023,CUST-1442,61.0,Male,clothing, T-Shirt ,2, 25.0 ,0.05,$47.50,NORTH
+TXN-0856,"Aug 12, 2023",CUST-1009,48.0, Female ,HOME APPLIANCES,Refrigerator,3,$850.00,0.1,"$2,295.00",north
+TXN-0821,10-17-2023,CUST-1058,56.0,Male,Apparel , T-Shirt ,5,$25.00,,$125.00,NORTH
+45,2023-01-27,1032.0,50.0,F,  Electronics , Wireless Headphones ,5, 120.0 ,20%,$480.00,north
+,2023.05.20,CUST-1145,51.0,Male,clothing, Jeans ,2,$60.00,0.2,96.00,west
+,22/12/2023,CUST-1125,33.0,M,electronics, Wireless Headphones ,5,$120.00,0.15,$510.00,East
+TXN-0241,27/04/2023,CUST-1192,55.0,female,clothing,T-Shirt,2, 25.0 ,25%,$37.50,NORTH
+TXN-0171,2023-08-04,CUST-1480,42.0, Female ,apparel,Running Shoes,1,85.0,0.05,,South
+TXN-0524,"Oct 20, 2023",CUST-1230,49.0,Female,Home-Appliances,Coffee Maker,3,$75.00,0.2,$180.00,south
+TXN-0766,"Aug 03, 2023",1414.0,41.0,M,ELECTRONICS, Smartphone ,4,$550.00,25%,1650.00,NORTH
+TXN-0839,2023-04-03,CUST-1132,51.0,M,home appliances,Microwave Oven,4,$180.00,,$720.00,West
+TXN-0424,2023-05-17,1177.0,57.0,male,apparel,Running Shoes,5,$85.00,10%,382.50,north
+TXN-0381,2023-02-14,CUST-1151,41.0,male,Apparel ,Running Shoes,4,$85.00,25%,$255.00,  North 
+txn_0610,2023-03-22,1117.0,63.0,FEMALE,Appliances,Air Conditioner,5, 650.0 ,0.25,"$2,437.50",West
+TXN-0677,2023.08.13,CUST-1132,38.0,male,apparel,T-Shirt,5,25.0,0.25,93.75,  North 
+345,15/12/2023,1340.0,20.0,  Male  ,Apparel,Jacket,2, 110.0 ,15%,187.00,South
+txn_0110,"Sep 23, 2023",,45.0,F,Electro, Smartwatch ,3,$200.00,0.1,540.00,  North 
+TXN-0278,29/09/2023,CUST-1065,35.0,female,HOME APPLIANCES,Refrigerator,3,$850.00,0.2,2040.00,West
+TXN-0678,2023.08.05,CUST-1200,48.0,Male,Appliances,Microwave Oven,1, 180.0 ,,$180.00,south
+TXN-0571,"Dec 24, 2023",CUST-1111,33.0,MALE,Apparel ,Hat,1, 18.0 ,20%,$14.40,east
+TXN-0359,08-29-2023,CUST-1093,46.0,F,ELECTRONICS,Smartwatch,0,$200.00,,0.00,NORTH
+TXN-0599,15/10/2023,CUST-1332,24.0,Male,apparel, Hat ,5,18.0,0.25,67.50,North
+TXN-0391,2023.01.06,CUST-1278,42.0,,Apparel ,Jeans,2, 60.0 ,0.2,96.00,North
+TXN-0894,2023-08-16,CUST-1421,33.0,female,Electro,Laptop,4,$950.00,0.2,"$3,040.00",east
+TXN-0693,"Mar 28, 2023",1277.0,56.0,MALE,HOME APPLIANCES,Microwave Oven,5, 180.0 ,10%,$810.00,south
+TXN-0728,"Jan 19, 2023",CUST-1156,32.0,Female,,Microwave Oven,2,$180.00,5%,342.00,NORTH
+TXN-0363,05-27-2023,1094.0,39.0,male,  Electronics ,Smartwatch,3,200.0,15%,$510.00,  North 
